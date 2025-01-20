@@ -1,0 +1,4720 @@
+[
+    {
+        "champion": "Aatrox",
+        "spell_name": "The Darkin Blade",
+        "cooldown": 14,
+        "image": "AatroxQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Aatrox",
+        "spell_name": "Infernal Chains",
+        "cooldown": 20,
+        "image": "AatroxW.png",
+        "position": 1
+    },
+    {
+        "champion": "Aatrox",
+        "spell_name": "Umbral Dash",
+        "cooldown": 9,
+        "image": "AatroxE.png",
+        "position": 2
+    },
+    {
+        "champion": "Aatrox",
+        "spell_name": "World Ender",
+        "cooldown": 120,
+        "image": "AatroxR.png",
+        "position": 3
+    },
+    {
+        "champion": "Ahri",
+        "spell_name": "Orb of Deception",
+        "cooldown": 7,
+        "image": "AhriQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ahri",
+        "spell_name": "Fox-Fire",
+        "cooldown": 9,
+        "image": "AhriW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ahri",
+        "spell_name": "Charm",
+        "cooldown": 12,
+        "image": "AhriE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ahri",
+        "spell_name": "Spirit Rush",
+        "cooldown": 130,
+        "image": "AhriR.png",
+        "position": 3
+    },
+    {
+        "champion": "Akali",
+        "spell_name": "Five Point Strike",
+        "cooldown": 1.5,
+        "image": "AkaliQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Akali",
+        "spell_name": "Twilight Shroud",
+        "cooldown": 20,
+        "image": "AkaliW.png",
+        "position": 1
+    },
+    {
+        "champion": "Akali",
+        "spell_name": "Shuriken Flip",
+        "cooldown": 16,
+        "image": "AkaliE.png",
+        "position": 2
+    },
+    {
+        "champion": "Akali",
+        "spell_name": "Perfect Execution",
+        "cooldown": 120,
+        "image": "AkaliR.png",
+        "position": 3
+    },
+    {
+        "champion": "Akshan",
+        "spell_name": "Avengerang",
+        "cooldown": 8,
+        "image": "AkshanQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Akshan",
+        "spell_name": "Going Rogue",
+        "cooldown": 18,
+        "image": "AkshanW.png",
+        "position": 1
+    },
+    {
+        "champion": "Akshan",
+        "spell_name": "Heroic Swing",
+        "cooldown": 18,
+        "image": "AkshanE.png",
+        "position": 2
+    },
+    {
+        "champion": "Akshan",
+        "spell_name": "Comeuppance",
+        "cooldown": 100,
+        "image": "AkshanR.png",
+        "position": 3
+    },
+    {
+        "champion": "Alistar",
+        "spell_name": "Pulverize",
+        "cooldown": 14,
+        "image": "Pulverize.png",
+        "position": 0
+    },
+    {
+        "champion": "Alistar",
+        "spell_name": "Headbutt",
+        "cooldown": 14,
+        "image": "Headbutt.png",
+        "position": 1
+    },
+    {
+        "champion": "Alistar",
+        "spell_name": "Trample",
+        "cooldown": 12,
+        "image": "AlistarE.png",
+        "position": 2
+    },
+    {
+        "champion": "Alistar",
+        "spell_name": "Unbreakable Will",
+        "cooldown": 120,
+        "image": "FerociousHowl.png",
+        "position": 3
+    },
+    {
+        "champion": "Ambessa",
+        "spell_name": "Cunning Sweep / Sundering Slam",
+        "cooldown": 14,
+        "image": "AmbessaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ambessa",
+        "spell_name": "Repudiation",
+        "cooldown": 18,
+        "image": "AmbessaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ambessa",
+        "spell_name": "Lacerate",
+        "cooldown": 13,
+        "image": "AmbessaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ambessa",
+        "spell_name": "Public Execution",
+        "cooldown": 130,
+        "image": "AmbessaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Amumu",
+        "spell_name": "Bandage Toss",
+        "cooldown": 3,
+        "image": "BandageToss.png",
+        "position": 0
+    },
+    {
+        "champion": "Amumu",
+        "spell_name": "Despair",
+        "cooldown": 1,
+        "image": "AuraofDespair.png",
+        "position": 1
+    },
+    {
+        "champion": "Amumu",
+        "spell_name": "Tantrum",
+        "cooldown": 9,
+        "image": "Tantrum.png",
+        "position": 2
+    },
+    {
+        "champion": "Amumu",
+        "spell_name": "Curse of the Sad Mummy",
+        "cooldown": 150,
+        "image": "CurseoftheSadMummy.png",
+        "position": 3
+    },
+    {
+        "champion": "Anivia",
+        "spell_name": "Flash Frost",
+        "cooldown": 12,
+        "image": "FlashFrost.png",
+        "position": 0
+    },
+    {
+        "champion": "Anivia",
+        "spell_name": "Crystallize",
+        "cooldown": 17,
+        "image": "Crystallize.png",
+        "position": 1
+    },
+    {
+        "champion": "Anivia",
+        "spell_name": "Frostbite",
+        "cooldown": 4,
+        "image": "Frostbite.png",
+        "position": 2
+    },
+    {
+        "champion": "Anivia",
+        "spell_name": "Glacial Storm",
+        "cooldown": 4,
+        "image": "GlacialStorm.png",
+        "position": 3
+    },
+    {
+        "champion": "Annie",
+        "spell_name": "Disintegrate",
+        "cooldown": 4,
+        "image": "AnnieQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Annie",
+        "spell_name": "Incinerate",
+        "cooldown": 8,
+        "image": "AnnieW.png",
+        "position": 1
+    },
+    {
+        "champion": "Annie",
+        "spell_name": "Molten Shield",
+        "cooldown": 12,
+        "image": "AnnieE.png",
+        "position": 2
+    },
+    {
+        "champion": "Annie",
+        "spell_name": "Summon: Tibbers",
+        "cooldown": 130,
+        "image": "AnnieR.png",
+        "position": 3
+    },
+    {
+        "champion": "Aphelios",
+        "spell_name": "Weapon Abilites",
+        "cooldown": 9,
+        "image": "ApheliosQ_ClientTooltipWrapper.png",
+        "position": 0
+    },
+    {
+        "champion": "Aphelios",
+        "spell_name": "Moonlight Vigil",
+        "cooldown": 120,
+        "image": "ApheliosR.png",
+        "position": 3
+    },
+    {
+        "champion": "Ashe",
+        "spell_name": "Ranger's Focus",
+        "cooldown": 0,
+        "image": "AsheQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ashe",
+        "spell_name": "Volley",
+        "cooldown": 18,
+        "image": "Volley.png",
+        "position": 1
+    },
+    {
+        "champion": "Ashe",
+        "spell_name": "Hawkshot",
+        "cooldown": 5,
+        "image": "AsheSpiritOfTheHawk.png",
+        "position": 2
+    },
+    {
+        "champion": "Ashe",
+        "spell_name": "Enchanted Crystal Arrow",
+        "cooldown": 100,
+        "image": "EnchantedCrystalArrow.png",
+        "position": 3
+    },
+    {
+        "champion": "Aurelion Sol",
+        "spell_name": "Breath of Light",
+        "cooldown": 3,
+        "image": "AurelionSolQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Aurelion Sol",
+        "spell_name": "Astral Flight",
+        "cooldown": 0,
+        "image": "AurelionSolW.png",
+        "position": 1
+    },
+    {
+        "champion": "Aurelion Sol",
+        "spell_name": "Singularity",
+        "cooldown": 12,
+        "image": "AurelionSolE.png",
+        "position": 2
+    },
+    {
+        "champion": "Aurelion Sol",
+        "spell_name": "Falling Star / The Skies Descend",
+        "cooldown": 120,
+        "image": "AurelionSolR.png",
+        "position": 3
+    },
+    {
+        "champion": "Aurora",
+        "spell_name": "Twofold Hex",
+        "cooldown": 9,
+        "image": "AuroraQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Aurora",
+        "spell_name": "Across the Veil",
+        "cooldown": 22,
+        "image": "AuroraW.png",
+        "position": 1
+    },
+    {
+        "champion": "Aurora",
+        "spell_name": "The Weirding",
+        "cooldown": 15,
+        "image": "AuroraE.png",
+        "position": 2
+    },
+    {
+        "champion": "Aurora",
+        "spell_name": "Between Worlds",
+        "cooldown": 140,
+        "image": "AuroraR.png",
+        "position": 3
+    },
+    {
+        "champion": "Azir",
+        "spell_name": "Conquering Sands",
+        "cooldown": 14,
+        "image": "AzirQWrapper.png",
+        "position": 0
+    },
+    {
+        "champion": "Azir",
+        "spell_name": "Arise!",
+        "cooldown": 1.5,
+        "image": "AzirW.png",
+        "position": 1
+    },
+    {
+        "champion": "Azir",
+        "spell_name": "Shifting Sands",
+        "cooldown": 22,
+        "image": "AzirEWrapper.png",
+        "position": 2
+    },
+    {
+        "champion": "Azir",
+        "spell_name": "Emperor's Divide",
+        "cooldown": 120,
+        "image": "AzirR.png",
+        "position": 3
+    },
+    {
+        "champion": "Bard",
+        "spell_name": "Cosmic Binding",
+        "cooldown": 11,
+        "image": "BardQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Bard",
+        "spell_name": "Caretaker's Shrine",
+        "cooldown": 0,
+        "image": "BardW.png",
+        "position": 1
+    },
+    {
+        "champion": "Bard",
+        "spell_name": "Magical Journey",
+        "cooldown": 22,
+        "image": "BardE.png",
+        "position": 2
+    },
+    {
+        "champion": "Bard",
+        "spell_name": "Tempered Fate",
+        "cooldown": 110,
+        "image": "BardR.png",
+        "position": 3
+    },
+    {
+        "champion": "Bel'Veth",
+        "spell_name": "Void Surge",
+        "cooldown": 1,
+        "image": "BelvethQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Bel'Veth",
+        "spell_name": "Above and Below",
+        "cooldown": 12,
+        "image": "BelvethW.png",
+        "position": 1
+    },
+    {
+        "champion": "Bel'Veth",
+        "spell_name": "Royal Maelstrom",
+        "cooldown": 20,
+        "image": "BelvethE.png",
+        "position": 2
+    },
+    {
+        "champion": "Bel'Veth",
+        "spell_name": "Endless Banquet",
+        "cooldown": 1,
+        "image": "BelvethR.png",
+        "position": 3
+    },
+    {
+        "champion": "Blitzcrank",
+        "spell_name": "Rocket Grab",
+        "cooldown": 20,
+        "image": "RocketGrab.png",
+        "position": 0
+    },
+    {
+        "champion": "Blitzcrank",
+        "spell_name": "Overdrive",
+        "cooldown": 15,
+        "image": "Overdrive.png",
+        "position": 1
+    },
+    {
+        "champion": "Blitzcrank",
+        "spell_name": "Power Fist",
+        "cooldown": 9,
+        "image": "PowerFist.png",
+        "position": 2
+    },
+    {
+        "champion": "Blitzcrank",
+        "spell_name": "Static Field",
+        "cooldown": 60,
+        "image": "StaticField.png",
+        "position": 3
+    },
+    {
+        "champion": "Brand",
+        "spell_name": "Sear",
+        "cooldown": 8,
+        "image": "BrandQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Brand",
+        "spell_name": "Pillar of Flame",
+        "cooldown": 10,
+        "image": "BrandW.png",
+        "position": 1
+    },
+    {
+        "champion": "Brand",
+        "spell_name": "Conflagration",
+        "cooldown": 13,
+        "image": "BrandE.png",
+        "position": 2
+    },
+    {
+        "champion": "Brand",
+        "spell_name": "Pyroclasm",
+        "cooldown": 110,
+        "image": "BrandR.png",
+        "position": 3
+    },
+    {
+        "champion": "Braum",
+        "spell_name": "Winter's Bite",
+        "cooldown": 8,
+        "image": "BraumQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Braum",
+        "spell_name": "Stand Behind Me",
+        "cooldown": 12,
+        "image": "BraumW.png",
+        "position": 1
+    },
+    {
+        "champion": "Braum",
+        "spell_name": "Unbreakable",
+        "cooldown": 16,
+        "image": "BraumE.png",
+        "position": 2
+    },
+    {
+        "champion": "Braum",
+        "spell_name": "Glacial Fissure",
+        "cooldown": 120,
+        "image": "BraumRWrapper.png",
+        "position": 3
+    },
+    {
+        "champion": "Briar",
+        "spell_name": "Head Rush",
+        "cooldown": 13,
+        "image": "BriarQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Briar",
+        "spell_name": "Blood Frenzy / Snack Attack",
+        "cooldown": 14,
+        "image": "BriarW.png",
+        "position": 1
+    },
+    {
+        "champion": "Briar",
+        "spell_name": "Chilling Scream",
+        "cooldown": 16,
+        "image": "BriarE.png",
+        "position": 2
+    },
+    {
+        "champion": "Briar",
+        "spell_name": "Certain Death",
+        "cooldown": 120,
+        "image": "BriarR.png",
+        "position": 3
+    },
+    {
+        "champion": "Caitlyn",
+        "spell_name": "Piltover Peacemaker",
+        "cooldown": 10,
+        "image": "CaitlynQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Caitlyn",
+        "spell_name": "Yordle Snap Trap",
+        "cooldown": 0.5,
+        "image": "CaitlynW.png",
+        "position": 1
+    },
+    {
+        "champion": "Caitlyn",
+        "spell_name": "90 Caliber Net",
+        "cooldown": 16,
+        "image": "CaitlynE.png",
+        "position": 2
+    },
+    {
+        "champion": "Caitlyn",
+        "spell_name": "Ace in the Hole",
+        "cooldown": 90,
+        "image": "CaitlynR.png",
+        "position": 3
+    },
+    {
+        "champion": "Camille",
+        "spell_name": "Precision Protocol",
+        "cooldown": 9,
+        "image": "CamilleQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Camille",
+        "spell_name": "Tactical Sweep",
+        "cooldown": 17,
+        "image": "CamilleW.png",
+        "position": 1
+    },
+    {
+        "champion": "Camille",
+        "spell_name": "Hookshot",
+        "cooldown": 16,
+        "image": "CamilleE.png",
+        "position": 2
+    },
+    {
+        "champion": "Camille",
+        "spell_name": "The Hextech Ultimatum",
+        "cooldown": 140,
+        "image": "CamilleR.png",
+        "position": 3
+    },
+    {
+        "champion": "Cassiopeia",
+        "spell_name": "Noxious Blast",
+        "cooldown": 3.5,
+        "image": "CassiopeiaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Cassiopeia",
+        "spell_name": "Miasma",
+        "cooldown": 24,
+        "image": "CassiopeiaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Cassiopeia",
+        "spell_name": "Twin Fang",
+        "cooldown": 0.75,
+        "image": "CassiopeiaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Cassiopeia",
+        "spell_name": "Petrifying Gaze",
+        "cooldown": 120,
+        "image": "CassiopeiaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Cho'Gath",
+        "spell_name": "Rupture",
+        "cooldown": 6,
+        "image": "Rupture.png",
+        "position": 0
+    },
+    {
+        "champion": "Cho'Gath",
+        "spell_name": "Feral Scream",
+        "cooldown": 11,
+        "image": "FeralScream.png",
+        "position": 1
+    },
+    {
+        "champion": "Cho'Gath",
+        "spell_name": "Vorpal Spikes",
+        "cooldown": 8,
+        "image": "VorpalSpikes.png",
+        "position": 2
+    },
+    {
+        "champion": "Cho'Gath",
+        "spell_name": "Feast",
+        "cooldown": 80,
+        "image": "Feast.png",
+        "position": 3
+    },
+    {
+        "champion": "Corki",
+        "spell_name": "Phosphorus Bomb",
+        "cooldown": 9,
+        "image": "PhosphorusBomb.png",
+        "position": 0
+    },
+    {
+        "champion": "Corki",
+        "spell_name": "Valkyrie",
+        "cooldown": 20,
+        "image": "CarpetBomb.png",
+        "position": 1
+    },
+    {
+        "champion": "Corki",
+        "spell_name": "Gatling Gun",
+        "cooldown": 12,
+        "image": "GGun.png",
+        "position": 2
+    },
+    {
+        "champion": "Corki",
+        "spell_name": "Missile Barrage",
+        "cooldown": 2,
+        "image": "MissileBarrage.png",
+        "position": 3
+    },
+    {
+        "champion": "Darius",
+        "spell_name": "Decimate",
+        "cooldown": 9,
+        "image": "DariusCleave.png",
+        "position": 0
+    },
+    {
+        "champion": "Darius",
+        "spell_name": "Crippling Strike",
+        "cooldown": 5,
+        "image": "DariusNoxianTacticsONH.png",
+        "position": 1
+    },
+    {
+        "champion": "Darius",
+        "spell_name": "Apprehend",
+        "cooldown": 24,
+        "image": "DariusAxeGrabCone.png",
+        "position": 2
+    },
+    {
+        "champion": "Darius",
+        "spell_name": "Noxian Guillotine",
+        "cooldown": 120,
+        "image": "DariusExecute.png",
+        "position": 3
+    },
+    {
+        "champion": "Diana",
+        "spell_name": "Crescent Strike",
+        "cooldown": 8,
+        "image": "DianaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Diana",
+        "spell_name": "Pale Cascade",
+        "cooldown": 15,
+        "image": "DianaOrbs.png",
+        "position": 1
+    },
+    {
+        "champion": "Diana",
+        "spell_name": "Lunar Rush",
+        "cooldown": 22,
+        "image": "DianaTeleport.png",
+        "position": 2
+    },
+    {
+        "champion": "Diana",
+        "spell_name": "Moonfall",
+        "cooldown": 100,
+        "image": "DianaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Draven",
+        "spell_name": "Spinning Axe",
+        "cooldown": 12,
+        "image": "DravenSpinning.png",
+        "position": 0
+    },
+    {
+        "champion": "Draven",
+        "spell_name": "Blood Rush",
+        "cooldown": 12,
+        "image": "DravenFury.png",
+        "position": 1
+    },
+    {
+        "champion": "Draven",
+        "spell_name": "Stand Aside",
+        "cooldown": 18,
+        "image": "DravenDoubleShot.png",
+        "position": 2
+    },
+    {
+        "champion": "Draven",
+        "spell_name": "Whirling Death",
+        "cooldown": 100,
+        "image": "DravenRCast.png",
+        "position": 3
+    },
+    {
+        "champion": "Dr. Mundo",
+        "spell_name": "Infected Bonesaw",
+        "cooldown": 4,
+        "image": "DrMundoQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Dr. Mundo",
+        "spell_name": "Heart Zapper",
+        "cooldown": 17,
+        "image": "DrMundoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Dr. Mundo",
+        "spell_name": "Blunt Force Trauma",
+        "cooldown": 9,
+        "image": "DrMundoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Dr. Mundo",
+        "spell_name": "Maximum Dosage",
+        "cooldown": 120,
+        "image": "DrMundoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Ekko",
+        "spell_name": "Timewinder",
+        "cooldown": 9,
+        "image": "EkkoQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ekko",
+        "spell_name": "Parallel Convergence",
+        "cooldown": 22,
+        "image": "EkkoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ekko",
+        "spell_name": "Phase Dive",
+        "cooldown": 9,
+        "image": "EkkoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ekko",
+        "spell_name": "Chronobreak",
+        "cooldown": 110,
+        "image": "EkkoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Elise",
+        "spell_name": "Neurotoxin / Venomous Bite",
+        "cooldown": 6,
+        "image": "EliseHumanQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Elise",
+        "spell_name": "Volatile Spiderling / Skittering Frenzy",
+        "cooldown": 12,
+        "image": "EliseHumanW.png",
+        "position": 1
+    },
+    {
+        "champion": "Elise",
+        "spell_name": "Cocoon / Rappel",
+        "cooldown": 12,
+        "image": "EliseHumanE.png",
+        "position": 2
+    },
+    {
+        "champion": "Elise",
+        "spell_name": "Spider Form",
+        "cooldown": 3,
+        "image": "EliseR.png",
+        "position": 3
+    },
+    {
+        "champion": "Evelynn",
+        "spell_name": "Hate Spike",
+        "cooldown": 4,
+        "image": "EvelynnQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Evelynn",
+        "spell_name": "Allure",
+        "cooldown": 15,
+        "image": "EvelynnW.png",
+        "position": 1
+    },
+    {
+        "champion": "Evelynn",
+        "spell_name": "Whiplash",
+        "cooldown": 8,
+        "image": "EvelynnE.png",
+        "position": 2
+    },
+    {
+        "champion": "Evelynn",
+        "spell_name": "Last Caress",
+        "cooldown": 120,
+        "image": "EvelynnR.png",
+        "position": 3
+    },
+    {
+        "champion": "Ezreal",
+        "spell_name": "Mystic Shot",
+        "cooldown": 5.5,
+        "image": "EzrealQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ezreal",
+        "spell_name": "Essence Flux",
+        "cooldown": 8,
+        "image": "EzrealW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ezreal",
+        "spell_name": "Arcane Shift",
+        "cooldown": 26,
+        "image": "EzrealE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ezreal",
+        "spell_name": "Trueshot Barrage",
+        "cooldown": 120,
+        "image": "EzrealR.png",
+        "position": 3
+    },
+    {
+        "champion": "Fiddlesticks",
+        "spell_name": "Terrify",
+        "cooldown": 15,
+        "image": "FiddleSticksQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Fiddlesticks",
+        "spell_name": "Bountiful Harvest",
+        "cooldown": 10,
+        "image": "FiddleSticksW.png",
+        "position": 1
+    },
+    {
+        "champion": "Fiddlesticks",
+        "spell_name": "Reap",
+        "cooldown": 10,
+        "image": "FiddleSticksE.png",
+        "position": 2
+    },
+    {
+        "champion": "Fiddlesticks",
+        "spell_name": "Crowstorm",
+        "cooldown": 140,
+        "image": "FiddleSticksR.png",
+        "position": 3
+    },
+    {
+        "champion": "Fiora",
+        "spell_name": "Lunge",
+        "cooldown": 13,
+        "image": "FioraQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Fiora",
+        "spell_name": "Riposte",
+        "cooldown": 24,
+        "image": "FioraW.png",
+        "position": 1
+    },
+    {
+        "champion": "Fiora",
+        "spell_name": "Bladework",
+        "cooldown": 11,
+        "image": "FioraE.png",
+        "position": 2
+    },
+    {
+        "champion": "Fiora",
+        "spell_name": "Grand Challenge",
+        "cooldown": 110,
+        "image": "FioraR.png",
+        "position": 3
+    },
+    {
+        "champion": "Fizz",
+        "spell_name": "Urchin Strike",
+        "cooldown": 8,
+        "image": "FizzQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Fizz",
+        "spell_name": "Seastone Trident",
+        "cooldown": 7,
+        "image": "FizzW.png",
+        "position": 1
+    },
+    {
+        "champion": "Fizz",
+        "spell_name": "Playful / Trickster",
+        "cooldown": 16,
+        "image": "FizzE.png",
+        "position": 2
+    },
+    {
+        "champion": "Fizz",
+        "spell_name": "Chum the Waters",
+        "cooldown": 100,
+        "image": "FizzR.png",
+        "position": 3
+    },
+    {
+        "champion": "Galio",
+        "spell_name": "Winds of War",
+        "cooldown": 11,
+        "image": "GalioQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Galio",
+        "spell_name": "Shield of Durand",
+        "cooldown": 18,
+        "image": "GalioW.png",
+        "position": 1
+    },
+    {
+        "champion": "Galio",
+        "spell_name": "Justice Punch",
+        "cooldown": 11,
+        "image": "GalioE.png",
+        "position": 2
+    },
+    {
+        "champion": "Galio",
+        "spell_name": "Hero's Entrance",
+        "cooldown": 180,
+        "image": "GalioR.png",
+        "position": 3
+    },
+    {
+        "champion": "Gangplank",
+        "spell_name": "Parrrley",
+        "cooldown": 4.5,
+        "image": "GangplankQWrapper.png",
+        "position": 0
+    },
+    {
+        "champion": "Gangplank",
+        "spell_name": "Remove Scurvy",
+        "cooldown": 22,
+        "image": "GangplankW.png",
+        "position": 1
+    },
+    {
+        "champion": "Gangplank",
+        "spell_name": "Powder Keg",
+        "cooldown": 0,
+        "image": "GangplankE.png",
+        "position": 2
+    },
+    {
+        "champion": "Gangplank",
+        "spell_name": "Cannon Barrage",
+        "cooldown": 170,
+        "image": "GangplankR.png",
+        "position": 3
+    },
+    {
+        "champion": "Garen",
+        "spell_name": "Decisive Strike",
+        "cooldown": 8,
+        "image": "GarenQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Garen",
+        "spell_name": "Courage",
+        "cooldown": 23,
+        "image": "GarenW.png",
+        "position": 1
+    },
+    {
+        "champion": "Garen",
+        "spell_name": "Judgment",
+        "cooldown": 9,
+        "image": "GarenE.png",
+        "position": 2
+    },
+    {
+        "champion": "Garen",
+        "spell_name": "Demacian Justice",
+        "cooldown": 120,
+        "image": "GarenR.png",
+        "position": 3
+    },
+    {
+        "champion": "Gnar",
+        "spell_name": "Boomerang Throw / Boulder Toss",
+        "cooldown": 20,
+        "image": "GnarQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Gnar",
+        "spell_name": "Hyper / Wallop",
+        "cooldown": 7,
+        "image": "GnarW.png",
+        "position": 1
+    },
+    {
+        "champion": "Gnar",
+        "spell_name": "Hop / Crunch",
+        "cooldown": 22,
+        "image": "GnarE.png",
+        "position": 2
+    },
+    {
+        "champion": "Gnar",
+        "spell_name": "GNAR!",
+        "cooldown": 90,
+        "image": "GnarR.png",
+        "position": 3
+    },
+    {
+        "champion": "Gragas",
+        "spell_name": "Barrel Roll",
+        "cooldown": 10,
+        "image": "GragasQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Gragas",
+        "spell_name": "Drunken Rage",
+        "cooldown": 5,
+        "image": "GragasW.png",
+        "position": 1
+    },
+    {
+        "champion": "Gragas",
+        "spell_name": "Body Slam",
+        "cooldown": 14,
+        "image": "GragasE.png",
+        "position": 2
+    },
+    {
+        "champion": "Gragas",
+        "spell_name": "Explosive Cask",
+        "cooldown": 100,
+        "image": "GragasR.png",
+        "position": 3
+    },
+    {
+        "champion": "Graves",
+        "spell_name": "End of the Line",
+        "cooldown": 13,
+        "image": "GravesQLineSpell.png",
+        "position": 0
+    },
+    {
+        "champion": "Graves",
+        "spell_name": "Smoke Screen",
+        "cooldown": 26,
+        "image": "GravesSmokeGrenade.png",
+        "position": 1
+    },
+    {
+        "champion": "Graves",
+        "spell_name": "Quickdraw",
+        "cooldown": 16,
+        "image": "GravesMove.png",
+        "position": 2
+    },
+    {
+        "champion": "Graves",
+        "spell_name": "Collateral Damage",
+        "cooldown": 100,
+        "image": "GravesChargeShot.png",
+        "position": 3
+    },
+    {
+        "champion": "Gwen",
+        "spell_name": "Snip Snip!",
+        "cooldown": 6.5,
+        "image": "GwenQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Gwen",
+        "spell_name": "Hallowed Mist",
+        "cooldown": 22,
+        "image": "GwenW.png",
+        "position": 1
+    },
+    {
+        "champion": "Gwen",
+        "spell_name": "Skip 'n Slash",
+        "cooldown": 13,
+        "image": "GwenE.png",
+        "position": 2
+    },
+    {
+        "champion": "Gwen",
+        "spell_name": "Needlework",
+        "cooldown": 120,
+        "image": "GwenR.png",
+        "position": 3
+    },
+    {
+        "champion": "Hecarim",
+        "spell_name": "Rampage",
+        "cooldown": 4,
+        "image": "HecarimRapidSlash.png",
+        "position": 0
+    },
+    {
+        "champion": "Hecarim",
+        "spell_name": "Spirit of Dread",
+        "cooldown": 14,
+        "image": "HecarimW.png",
+        "position": 1
+    },
+    {
+        "champion": "Hecarim",
+        "spell_name": "Devastating Charge",
+        "cooldown": 20,
+        "image": "HecarimRamp.png",
+        "position": 2
+    },
+    {
+        "champion": "Hecarim",
+        "spell_name": "Onslaught of Shadows",
+        "cooldown": 140,
+        "image": "HecarimUlt.png",
+        "position": 3
+    },
+    {
+        "champion": "Heimerdinger",
+        "spell_name": "H-28 G Evolution Turret",
+        "cooldown": 1,
+        "image": "HeimerdingerQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Heimerdinger",
+        "spell_name": "Hextech Micro-Rockets",
+        "cooldown": 11,
+        "image": "HeimerdingerW.png",
+        "position": 1
+    },
+    {
+        "champion": "Heimerdinger",
+        "spell_name": "CH-2 Electron Storm Grenade",
+        "cooldown": 11,
+        "image": "HeimerdingerE.png",
+        "position": 2
+    },
+    {
+        "champion": "Heimerdinger",
+        "spell_name": "UPGRADE!!!",
+        "cooldown": 100,
+        "image": "HeimerdingerR.png",
+        "position": 3
+    },
+    {
+        "champion": "Hwei",
+        "spell_name": "Subject: Disaster",
+        "cooldown": 10,
+        "image": "HweiQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Hwei",
+        "spell_name": "Subject: Serenity",
+        "cooldown": 18,
+        "image": "HweiW.png",
+        "position": 1
+    },
+    {
+        "champion": "Hwei",
+        "spell_name": "Subject: Torment",
+        "cooldown": 13,
+        "image": "HweiE.png",
+        "position": 2
+    },
+    {
+        "champion": "Hwei",
+        "spell_name": "Spiraling Despair",
+        "cooldown": 140,
+        "image": "HweiR.png",
+        "position": 3
+    },
+    {
+        "champion": "Illaoi",
+        "spell_name": "Tentacle Smash",
+        "cooldown": 10,
+        "image": "IllaoiQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Illaoi",
+        "spell_name": "Harsh Lesson",
+        "cooldown": 4,
+        "image": "IllaoiW.png",
+        "position": 1
+    },
+    {
+        "champion": "Illaoi",
+        "spell_name": "Test of Spirit",
+        "cooldown": 16,
+        "image": "IllaoiE.png",
+        "position": 2
+    },
+    {
+        "champion": "Illaoi",
+        "spell_name": "Leap of Faith",
+        "cooldown": 120,
+        "image": "IllaoiR.png",
+        "position": 3
+    },
+    {
+        "champion": "Irelia",
+        "spell_name": "Bladesurge",
+        "cooldown": 10,
+        "image": "IreliaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Irelia",
+        "spell_name": "Defiant Dance",
+        "cooldown": 20,
+        "image": "IreliaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Irelia",
+        "spell_name": "Flawless Duet",
+        "cooldown": 16,
+        "image": "IreliaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Irelia",
+        "spell_name": "Vanguard's Edge",
+        "cooldown": 125,
+        "image": "IreliaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Ivern",
+        "spell_name": "Rootcaller",
+        "cooldown": 14,
+        "image": "IvernQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ivern",
+        "spell_name": "Brushmaker",
+        "cooldown": 0.5,
+        "image": "IvernW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ivern",
+        "spell_name": "Triggerseed",
+        "cooldown": 11,
+        "image": "IvernE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ivern",
+        "spell_name": "Daisy!",
+        "cooldown": 140,
+        "image": "IvernR.png",
+        "position": 3
+    },
+    {
+        "champion": "Janna",
+        "spell_name": "Howling Gale",
+        "cooldown": 14,
+        "image": "HowlingGale.png",
+        "position": 0
+    },
+    {
+        "champion": "Janna",
+        "spell_name": "Zephyr",
+        "cooldown": 8,
+        "image": "SowTheWind.png",
+        "position": 1
+    },
+    {
+        "champion": "Janna",
+        "spell_name": "Eye Of The Storm",
+        "cooldown": 16,
+        "image": "EyeOfTheStorm.png",
+        "position": 2
+    },
+    {
+        "champion": "Janna",
+        "spell_name": "Monsoon",
+        "cooldown": 130,
+        "image": "ReapTheWhirlwind.png",
+        "position": 3
+    },
+    {
+        "champion": "Jarvan IV",
+        "spell_name": "Dragon Strike",
+        "cooldown": 10,
+        "image": "JarvanIVDragonStrike.png",
+        "position": 0
+    },
+    {
+        "champion": "Jarvan IV",
+        "spell_name": "Golden Aegis",
+        "cooldown": 9,
+        "image": "JarvanIVGoldenAegis.png",
+        "position": 1
+    },
+    {
+        "champion": "Jarvan IV",
+        "spell_name": "Demacian Standard",
+        "cooldown": 12,
+        "image": "JarvanIVDemacianStandard.png",
+        "position": 2
+    },
+    {
+        "champion": "Jarvan IV",
+        "spell_name": "Cataclysm",
+        "cooldown": 120,
+        "image": "JarvanIVCataclysm.png",
+        "position": 3
+    },
+    {
+        "champion": "Jax",
+        "spell_name": "Leap Strike",
+        "cooldown": 8,
+        "image": "JaxQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Jax",
+        "spell_name": "Empower",
+        "cooldown": 7,
+        "image": "JaxW.png",
+        "position": 1
+    },
+    {
+        "champion": "Jax",
+        "spell_name": "Counter Strike",
+        "cooldown": 17,
+        "image": "JaxE.png",
+        "position": 2
+    },
+    {
+        "champion": "Jax",
+        "spell_name": "Grandmaster-at-Arms",
+        "cooldown": 110,
+        "image": "JaxR.png",
+        "position": 3
+    },
+    {
+        "champion": "Jayce",
+        "spell_name": "To the Skies! / Shock Blast",
+        "cooldown": 16,
+        "image": "JayceToTheSkies.png",
+        "position": 0
+    },
+    {
+        "champion": "Jayce",
+        "spell_name": "Lightning Field / Hyper Charge",
+        "cooldown": 10,
+        "image": "JayceStaticField.png",
+        "position": 1
+    },
+    {
+        "champion": "Jayce",
+        "spell_name": "Thundering Blow / Acceleration Gate",
+        "cooldown": 20,
+        "image": "JayceThunderingBlow.png",
+        "position": 2
+    },
+    {
+        "champion": "Jayce",
+        "spell_name": "Mercury Cannon / Mercury Hammer",
+        "cooldown": 6,
+        "image": "JayceStanceHtG.png",
+        "position": 3
+    },
+    {
+        "champion": "Jhin",
+        "spell_name": "Dancing Grenade",
+        "cooldown": 7,
+        "image": "JhinQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Jhin",
+        "spell_name": "Deadly Flourish",
+        "cooldown": 12,
+        "image": "JhinW.png",
+        "position": 1
+    },
+    {
+        "champion": "Jhin",
+        "spell_name": "Captive Audience",
+        "cooldown": 2,
+        "image": "JhinE.png",
+        "position": 2
+    },
+    {
+        "champion": "Jhin",
+        "spell_name": "Curtain Call",
+        "cooldown": 120,
+        "image": "JhinR.png",
+        "position": 3
+    },
+    {
+        "champion": "Jinx",
+        "spell_name": "Switcheroo!",
+        "cooldown": 0.9,
+        "image": "JinxQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Jinx",
+        "spell_name": "Zap!",
+        "cooldown": 8,
+        "image": "JinxW.png",
+        "position": 1
+    },
+    {
+        "champion": "Jinx",
+        "spell_name": "Flame Chompers!",
+        "cooldown": 24,
+        "image": "JinxE.png",
+        "position": 2
+    },
+    {
+        "champion": "Jinx",
+        "spell_name": "Super Mega Death Rocket!",
+        "cooldown": 85,
+        "image": "JinxR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kai'Sa",
+        "spell_name": "Icathian Rain",
+        "cooldown": 10,
+        "image": "KaisaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kai'Sa",
+        "spell_name": "Void Seeker",
+        "cooldown": 22,
+        "image": "KaisaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kai'Sa",
+        "spell_name": "Supercharge",
+        "cooldown": 16,
+        "image": "KaisaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Kai'Sa",
+        "spell_name": "Killer Instinct",
+        "cooldown": 130,
+        "image": "KaisaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kalista",
+        "spell_name": "Pierce",
+        "cooldown": 8,
+        "image": "KalistaMysticShot.png",
+        "position": 0
+    },
+    {
+        "champion": "Kalista",
+        "spell_name": "Sentinel",
+        "cooldown": 30,
+        "image": "KalistaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kalista",
+        "spell_name": "Rend",
+        "cooldown": 0,
+        "image": "KalistaExpungeWrapper.png",
+        "position": 2
+    },
+    {
+        "champion": "Kalista",
+        "spell_name": "Fate's Call",
+        "cooldown": 160,
+        "image": "KalistaRx.png",
+        "position": 3
+    },
+    {
+        "champion": "Karma",
+        "spell_name": "Inner Flame",
+        "cooldown": 9,
+        "image": "KarmaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Karma",
+        "spell_name": "Focused Resolve",
+        "cooldown": 12,
+        "image": "KarmaSpiritBind.png",
+        "position": 1
+    },
+    {
+        "champion": "Karma",
+        "spell_name": "Inspire",
+        "cooldown": 10,
+        "image": "KarmaSolKimShield.png",
+        "position": 2
+    },
+    {
+        "champion": "Karma",
+        "spell_name": "Mantra",
+        "cooldown": 40,
+        "image": "KarmaMantra.png",
+        "position": 3
+    },
+    {
+        "champion": "Karthus",
+        "spell_name": "Lay Waste",
+        "cooldown": 0,
+        "image": "KarthusLayWasteA1.png",
+        "position": 0
+    },
+    {
+        "champion": "Karthus",
+        "spell_name": "Wall of Pain",
+        "cooldown": 15,
+        "image": "KarthusWallOfPain.png",
+        "position": 1
+    },
+    {
+        "champion": "Karthus",
+        "spell_name": "Defile",
+        "cooldown": 0.5,
+        "image": "KarthusDefile.png",
+        "position": 2
+    },
+    {
+        "champion": "Karthus",
+        "spell_name": "Requiem",
+        "cooldown": 200,
+        "image": "KarthusFallenOne.png",
+        "position": 3
+    },
+    {
+        "champion": "Kassadin",
+        "spell_name": "Null Sphere",
+        "cooldown": 10,
+        "image": "NullLance.png",
+        "position": 0
+    },
+    {
+        "champion": "Kassadin",
+        "spell_name": "Nether Blade",
+        "cooldown": 7,
+        "image": "NetherBlade.png",
+        "position": 1
+    },
+    {
+        "champion": "Kassadin",
+        "spell_name": "Force Pulse",
+        "cooldown": 21,
+        "image": "ForcePulse.png",
+        "position": 2
+    },
+    {
+        "champion": "Kassadin",
+        "spell_name": "Riftwalk",
+        "cooldown": 5,
+        "image": "RiftWalk.png",
+        "position": 3
+    },
+    {
+        "champion": "Katarina",
+        "spell_name": "Bouncing Blade",
+        "cooldown": 11,
+        "image": "KatarinaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Katarina",
+        "spell_name": "Preparation",
+        "cooldown": 15,
+        "image": "KatarinaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Katarina",
+        "spell_name": "Shunpo",
+        "cooldown": 12,
+        "image": "KatarinaEWrapper.png",
+        "position": 2
+    },
+    {
+        "champion": "Katarina",
+        "spell_name": "Death Lotus",
+        "cooldown": 75,
+        "image": "KatarinaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kayle",
+        "spell_name": "Radiant Blast",
+        "cooldown": 12,
+        "image": "KayleQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kayle",
+        "spell_name": "Celestial Blessing",
+        "cooldown": 15,
+        "image": "KayleW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kayle",
+        "spell_name": "Starfire Spellblade",
+        "cooldown": 8,
+        "image": "KayleE.png",
+        "position": 2
+    },
+    {
+        "champion": "Kayle",
+        "spell_name": "Divine Judgment",
+        "cooldown": 160,
+        "image": "KayleR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kayn",
+        "spell_name": "Reaping Slash",
+        "cooldown": 7,
+        "image": "KaynQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kayn",
+        "spell_name": "Blade's Reach",
+        "cooldown": 13,
+        "image": "KaynW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kayn",
+        "spell_name": "Shadow Step",
+        "cooldown": 21,
+        "image": "KaynE.png",
+        "position": 2
+    },
+    {
+        "champion": "Kayn",
+        "spell_name": "Umbral Trespass",
+        "cooldown": 120,
+        "image": "KaynR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kennen",
+        "spell_name": "Thundering Shuriken",
+        "cooldown": 7,
+        "image": "KennenShurikenHurlMissile1.png",
+        "position": 0
+    },
+    {
+        "champion": "Kennen",
+        "spell_name": "Electrical Surge",
+        "cooldown": 13,
+        "image": "KennenBringTheLight.png",
+        "position": 1
+    },
+    {
+        "champion": "Kennen",
+        "spell_name": "Lightning Rush",
+        "cooldown": 10,
+        "image": "KennenLightningRush.png",
+        "position": 2
+    },
+    {
+        "champion": "Kennen",
+        "spell_name": "Slicing Maelstrom",
+        "cooldown": 120,
+        "image": "KennenShurikenStorm.png",
+        "position": 3
+    },
+    {
+        "champion": "Kha'Zix",
+        "spell_name": "Taste Their Fear",
+        "cooldown": 4,
+        "image": "KhazixQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kha'Zix",
+        "spell_name": "Void Spike",
+        "cooldown": 9,
+        "image": "KhazixW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kha'Zix",
+        "spell_name": "Leap",
+        "cooldown": 20,
+        "image": "KhazixE.png",
+        "position": 2
+    },
+    {
+        "champion": "Kha'Zix",
+        "spell_name": "Void Assault",
+        "cooldown": 100,
+        "image": "KhazixR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kindred",
+        "spell_name": "Dance of Arrows",
+        "cooldown": 9,
+        "image": "KindredQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kindred",
+        "spell_name": "Wolf's Frenzy",
+        "cooldown": 18,
+        "image": "KindredW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kindred",
+        "spell_name": "Mounting Dread",
+        "cooldown": 14,
+        "image": "KindredEWrapper.png",
+        "position": 2
+    },
+    {
+        "champion": "Kindred",
+        "spell_name": "Lamb's Respite",
+        "cooldown": 180,
+        "image": "KindredR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kled",
+        "spell_name": "Bear Trap on a Rope",
+        "cooldown": 11,
+        "image": "KledQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kled",
+        "spell_name": "Violent Tendencies",
+        "cooldown": 11,
+        "image": "KledW.png",
+        "position": 1
+    },
+    {
+        "champion": "Kled",
+        "spell_name": "Jousting",
+        "cooldown": 13,
+        "image": "KledE.png",
+        "position": 2
+    },
+    {
+        "champion": "Kled",
+        "spell_name": "Chaaaaaaaarge!!!",
+        "cooldown": 140,
+        "image": "KledR.png",
+        "position": 3
+    },
+    {
+        "champion": "Kog'Maw",
+        "spell_name": "Caustic Spittle",
+        "cooldown": 7,
+        "image": "KogMawQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Kog'Maw",
+        "spell_name": "Bio-Arcane Barrage",
+        "cooldown": 17,
+        "image": "KogMawBioArcaneBarrage.png",
+        "position": 1
+    },
+    {
+        "champion": "Kog'Maw",
+        "spell_name": "Void Ooze",
+        "cooldown": 12,
+        "image": "KogMawVoidOoze.png",
+        "position": 2
+    },
+    {
+        "champion": "Kog'Maw",
+        "spell_name": "Living Artillery",
+        "cooldown": 2,
+        "image": "KogMawLivingArtillery.png",
+        "position": 3
+    },
+    {
+        "champion": "K'Sante",
+        "spell_name": "Ntofo Strikes",
+        "cooldown": 3.5,
+        "image": "KSanteQ.png",
+        "position": 0
+    },
+    {
+        "champion": "K'Sante",
+        "spell_name": "Path Maker",
+        "cooldown": 14,
+        "image": "KSanteW.png",
+        "position": 1
+    },
+    {
+        "champion": "K'Sante",
+        "spell_name": "Footwork",
+        "cooldown": 10,
+        "image": "KSanteE.png",
+        "position": 2
+    },
+    {
+        "champion": "K'Sante",
+        "spell_name": "All Out",
+        "cooldown": 120,
+        "image": "KSanteR.png",
+        "position": 3
+    },
+    {
+        "champion": "LeBlanc",
+        "spell_name": "Sigil of Malice",
+        "cooldown": 6,
+        "image": "LeblancQ.png",
+        "position": 0
+    },
+    {
+        "champion": "LeBlanc",
+        "spell_name": "Distortion",
+        "cooldown": 15,
+        "image": "LeblancW.png",
+        "position": 1
+    },
+    {
+        "champion": "LeBlanc",
+        "spell_name": "Ethereal Chains",
+        "cooldown": 14,
+        "image": "LeblancE.png",
+        "position": 2
+    },
+    {
+        "champion": "LeBlanc",
+        "spell_name": "Mimic",
+        "cooldown": 50,
+        "image": "LeblancR.png",
+        "position": 3
+    },
+    {
+        "champion": "Lee Sin",
+        "spell_name": "Sonic Wave / Resonating Strike",
+        "cooldown": 10,
+        "image": "LeeSinQOne.png",
+        "position": 0
+    },
+    {
+        "champion": "Lee Sin",
+        "spell_name": "Safeguard / Iron Will",
+        "cooldown": 12,
+        "image": "LeeSinWOne.png",
+        "position": 1
+    },
+    {
+        "champion": "Lee Sin",
+        "spell_name": "Tempest / Cripple",
+        "cooldown": 9,
+        "image": "LeeSinEOne.png",
+        "position": 2
+    },
+    {
+        "champion": "Lee Sin",
+        "spell_name": "Dragon's Rage",
+        "cooldown": 110,
+        "image": "LeeSinR.png",
+        "position": 3
+    },
+    {
+        "champion": "Leona",
+        "spell_name": "Shield of Daybreak",
+        "cooldown": 5,
+        "image": "LeonaShieldOfDaybreak.png",
+        "position": 0
+    },
+    {
+        "champion": "Leona",
+        "spell_name": "Eclipse",
+        "cooldown": 14,
+        "image": "LeonaSolarBarrier.png",
+        "position": 1
+    },
+    {
+        "champion": "Leona",
+        "spell_name": "Zenith Blade",
+        "cooldown": 12,
+        "image": "LeonaZenithBlade.png",
+        "position": 2
+    },
+    {
+        "champion": "Leona",
+        "spell_name": "Solar Flare",
+        "cooldown": 90,
+        "image": "LeonaSolarFlare.png",
+        "position": 3
+    },
+    {
+        "champion": "Lillia",
+        "spell_name": "Blooming Blows",
+        "cooldown": 6,
+        "image": "LilliaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Lillia",
+        "spell_name": "Watch Out! Eep!",
+        "cooldown": 14,
+        "image": "LilliaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Lillia",
+        "spell_name": "Swirlseed",
+        "cooldown": 14,
+        "image": "LilliaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Lillia",
+        "spell_name": "Lilting Lullaby",
+        "cooldown": 150,
+        "image": "LilliaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Lissandra",
+        "spell_name": "Ice Shard",
+        "cooldown": 8,
+        "image": "LissandraQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Lissandra",
+        "spell_name": "Ring of Frost",
+        "cooldown": 10,
+        "image": "LissandraW.png",
+        "position": 1
+    },
+    {
+        "champion": "Lissandra",
+        "spell_name": "Glacial Path",
+        "cooldown": 24,
+        "image": "LissandraE.png",
+        "position": 2
+    },
+    {
+        "champion": "Lissandra",
+        "spell_name": "Frozen Tomb",
+        "cooldown": 120,
+        "image": "LissandraR.png",
+        "position": 3
+    },
+    {
+        "champion": "Lucian",
+        "spell_name": "Piercing Light",
+        "cooldown": 9,
+        "image": "LucianQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Lucian",
+        "spell_name": "Ardent Blaze",
+        "cooldown": 14,
+        "image": "LucianW.png",
+        "position": 1
+    },
+    {
+        "champion": "Lucian",
+        "spell_name": "Relentless Pursuit",
+        "cooldown": 19,
+        "image": "LucianE.png",
+        "position": 2
+    },
+    {
+        "champion": "Lucian",
+        "spell_name": "The Culling",
+        "cooldown": 110,
+        "image": "LucianR.png",
+        "position": 3
+    },
+    {
+        "champion": "Lulu",
+        "spell_name": "Glitterlance",
+        "cooldown": 7,
+        "image": "LuluQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Lulu",
+        "spell_name": "Whimsy",
+        "cooldown": 17,
+        "image": "LuluW.png",
+        "position": 1
+    },
+    {
+        "champion": "Lulu",
+        "spell_name": "Help, Pix!",
+        "cooldown": 8,
+        "image": "LuluE.png",
+        "position": 2
+    },
+    {
+        "champion": "Lulu",
+        "spell_name": "Wild Growth",
+        "cooldown": 100,
+        "image": "LuluR.png",
+        "position": 3
+    },
+    {
+        "champion": "Lux",
+        "spell_name": "Light Binding",
+        "cooldown": 11,
+        "image": "LuxLightBinding.png",
+        "position": 0
+    },
+    {
+        "champion": "Lux",
+        "spell_name": "Prismatic Barrier",
+        "cooldown": 14,
+        "image": "LuxPrismaticWave.png",
+        "position": 1
+    },
+    {
+        "champion": "Lux",
+        "spell_name": "Lucent Singularity",
+        "cooldown": 10,
+        "image": "LuxLightStrikeKugel.png",
+        "position": 2
+    },
+    {
+        "champion": "Lux",
+        "spell_name": "Final Spark",
+        "cooldown": 60,
+        "image": "LuxR.png",
+        "position": 3
+    },
+    {
+        "champion": "Malphite",
+        "spell_name": "Seismic Shard",
+        "cooldown": 8,
+        "image": "SeismicShard.png",
+        "position": 0
+    },
+    {
+        "champion": "Malphite",
+        "spell_name": "Thunderclap",
+        "cooldown": 10,
+        "image": "Obduracy.png",
+        "position": 1
+    },
+    {
+        "champion": "Malphite",
+        "spell_name": "Ground Slam",
+        "cooldown": 7,
+        "image": "Landslide.png",
+        "position": 2
+    },
+    {
+        "champion": "Malphite",
+        "spell_name": "Unstoppable Force",
+        "cooldown": 130,
+        "image": "UFSlash.png",
+        "position": 3
+    },
+    {
+        "champion": "Malzahar",
+        "spell_name": "Call of the Void",
+        "cooldown": 6,
+        "image": "MalzaharQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Malzahar",
+        "spell_name": "Void Swarm",
+        "cooldown": 8,
+        "image": "MalzaharW.png",
+        "position": 1
+    },
+    {
+        "champion": "Malzahar",
+        "spell_name": "Malefic Visions",
+        "cooldown": 11,
+        "image": "MalzaharE.png",
+        "position": 2
+    },
+    {
+        "champion": "Malzahar",
+        "spell_name": "Nether Grasp",
+        "cooldown": 140,
+        "image": "MalzaharR.png",
+        "position": 3
+    },
+    {
+        "champion": "Maokai",
+        "spell_name": "Bramble Smash",
+        "cooldown": 7,
+        "image": "MaokaiQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Maokai",
+        "spell_name": "Twisted Advance",
+        "cooldown": 14,
+        "image": "MaokaiW.png",
+        "position": 1
+    },
+    {
+        "champion": "Maokai",
+        "spell_name": "Sapling Toss",
+        "cooldown": 18,
+        "image": "MaokaiE.png",
+        "position": 2
+    },
+    {
+        "champion": "Maokai",
+        "spell_name": "Nature's Grasp",
+        "cooldown": 130,
+        "image": "MaokaiR.png",
+        "position": 3
+    },
+    {
+        "champion": "Master Yi",
+        "spell_name": "Alpha Strike",
+        "cooldown": 20,
+        "image": "AlphaStrike.png",
+        "position": 0
+    },
+    {
+        "champion": "Master Yi",
+        "spell_name": "Meditate",
+        "cooldown": 10,
+        "image": "Meditate.png",
+        "position": 1
+    },
+    {
+        "champion": "Master Yi",
+        "spell_name": "Wuju Style",
+        "cooldown": 14,
+        "image": "WujuStyle.png",
+        "position": 2
+    },
+    {
+        "champion": "Master Yi",
+        "spell_name": "Highlander",
+        "cooldown": 85,
+        "image": "Highlander.png",
+        "position": 3
+    },
+    {
+        "champion": "Milio",
+        "spell_name": "Ultra Mega Fire Kick",
+        "cooldown": 10,
+        "image": "MilioQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Milio",
+        "spell_name": "Cozy Campfire",
+        "cooldown": 29,
+        "image": "MilioW.png",
+        "position": 1
+    },
+    {
+        "champion": "Milio",
+        "spell_name": "Warm Hugs",
+        "cooldown": 0.5,
+        "image": "MilioE.png",
+        "position": 2
+    },
+    {
+        "champion": "Milio",
+        "spell_name": "Breath of Life",
+        "cooldown": 160,
+        "image": "MilioR.png",
+        "position": 3
+    },
+    {
+        "champion": "Miss Fortune",
+        "spell_name": "Double Up",
+        "cooldown": 7,
+        "image": "MissFortuneRicochetShot.png",
+        "position": 0
+    },
+    {
+        "champion": "Miss Fortune",
+        "spell_name": "Strut",
+        "cooldown": 12,
+        "image": "MissFortuneViciousStrikes.png",
+        "position": 1
+    },
+    {
+        "champion": "Miss Fortune",
+        "spell_name": "Make It Rain",
+        "cooldown": 18,
+        "image": "MissFortuneScattershot.png",
+        "position": 2
+    },
+    {
+        "champion": "Miss Fortune",
+        "spell_name": "Bullet Time",
+        "cooldown": 120,
+        "image": "MissFortuneBulletTime.png",
+        "position": 3
+    },
+    {
+        "champion": "Wukong",
+        "spell_name": "Crushing Blow",
+        "cooldown": 8,
+        "image": "MonkeyKingDoubleAttack.png",
+        "position": 0
+    },
+    {
+        "champion": "Wukong",
+        "spell_name": "Warrior Trickster",
+        "cooldown": 18,
+        "image": "MonkeyKingDecoy.png",
+        "position": 1
+    },
+    {
+        "champion": "Wukong",
+        "spell_name": "Nimbus Strike",
+        "cooldown": 10,
+        "image": "MonkeyKingNimbus.png",
+        "position": 2
+    },
+    {
+        "champion": "Wukong",
+        "spell_name": "Cyclone",
+        "cooldown": 130,
+        "image": "MonkeyKingSpinToWin.png",
+        "position": 3
+    },
+    {
+        "champion": "Mordekaiser",
+        "spell_name": "Obliterate",
+        "cooldown": 8,
+        "image": "MordekaiserQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Mordekaiser",
+        "spell_name": "Indestructible",
+        "cooldown": 12,
+        "image": "MordekaiserW.png",
+        "position": 1
+    },
+    {
+        "champion": "Mordekaiser",
+        "spell_name": "Death's Grasp",
+        "cooldown": 18,
+        "image": "MordekaiserE.png",
+        "position": 2
+    },
+    {
+        "champion": "Mordekaiser",
+        "spell_name": "Realm of Death",
+        "cooldown": 140,
+        "image": "MordekaiserR.png",
+        "position": 3
+    },
+    {
+        "champion": "Morgana",
+        "spell_name": "Dark Binding",
+        "cooldown": 10,
+        "image": "MorganaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Morgana",
+        "spell_name": "Tormented Shadow",
+        "cooldown": 12,
+        "image": "MorganaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Morgana",
+        "spell_name": "Black Shield",
+        "cooldown": 26,
+        "image": "MorganaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Morgana",
+        "spell_name": "Soul Shackles",
+        "cooldown": 120,
+        "image": "MorganaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Naafiri",
+        "spell_name": "Darkin Daggers",
+        "cooldown": 9,
+        "image": "NaafiriQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Naafiri",
+        "spell_name": "Hounds' Pursuit",
+        "cooldown": 22,
+        "image": "NaafiriW.png",
+        "position": 1
+    },
+    {
+        "champion": "Naafiri",
+        "spell_name": "Eviscerate",
+        "cooldown": 10,
+        "image": "NaafiriE.png",
+        "position": 2
+    },
+    {
+        "champion": "Naafiri",
+        "spell_name": "The Call of the Pack",
+        "cooldown": 120,
+        "image": "NaafiriR.png",
+        "position": 3
+    },
+    {
+        "champion": "Nami",
+        "spell_name": "Aqua Prison",
+        "cooldown": 12,
+        "image": "NamiQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Nami",
+        "spell_name": "Ebb and Flow",
+        "cooldown": 10,
+        "image": "NamiW.png",
+        "position": 1
+    },
+    {
+        "champion": "Nami",
+        "spell_name": "Tidecaller's Blessing",
+        "cooldown": 11,
+        "image": "NamiE.png",
+        "position": 2
+    },
+    {
+        "champion": "Nami",
+        "spell_name": "Tidal Wave",
+        "cooldown": 120,
+        "image": "NamiR.png",
+        "position": 3
+    },
+    {
+        "champion": "Nasus",
+        "spell_name": "Siphoning Strike",
+        "cooldown": 7.5,
+        "image": "NasusQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Nasus",
+        "spell_name": "Wither",
+        "cooldown": 15,
+        "image": "NasusW.png",
+        "position": 1
+    },
+    {
+        "champion": "Nasus",
+        "spell_name": "Spirit Fire",
+        "cooldown": 12,
+        "image": "NasusE.png",
+        "position": 2
+    },
+    {
+        "champion": "Nasus",
+        "spell_name": "Fury of the Sands",
+        "cooldown": 120,
+        "image": "NasusR.png",
+        "position": 3
+    },
+    {
+        "champion": "Nautilus",
+        "spell_name": "Dredge Line",
+        "cooldown": 14,
+        "image": "NautilusAnchorDrag.png",
+        "position": 0
+    },
+    {
+        "champion": "Nautilus",
+        "spell_name": "Titan's Wrath",
+        "cooldown": 12,
+        "image": "NautilusPiercingGaze.png",
+        "position": 1
+    },
+    {
+        "champion": "Nautilus",
+        "spell_name": "Riptide",
+        "cooldown": 7,
+        "image": "NautilusSplashZone.png",
+        "position": 2
+    },
+    {
+        "champion": "Nautilus",
+        "spell_name": "Depth Charge",
+        "cooldown": 120,
+        "image": "NautilusGrandLine.png",
+        "position": 3
+    },
+    {
+        "champion": "Neeko",
+        "spell_name": "Blooming Burst",
+        "cooldown": 9,
+        "image": "NeekoQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Neeko",
+        "spell_name": "Shapesplitter",
+        "cooldown": 16,
+        "image": "NeekoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Neeko",
+        "spell_name": "Tangle-Barbs",
+        "cooldown": 12,
+        "image": "NeekoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Neeko",
+        "spell_name": "Pop Blossom",
+        "cooldown": 120,
+        "image": "NeekoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Nidalee",
+        "spell_name": "Javelin Toss / Takedown",
+        "cooldown": 6,
+        "image": "JavelinToss.png",
+        "position": 0
+    },
+    {
+        "champion": "Nidalee",
+        "spell_name": "Bushwhack / Pounce",
+        "cooldown": 13,
+        "image": "Bushwhack.png",
+        "position": 1
+    },
+    {
+        "champion": "Nidalee",
+        "spell_name": "Primal Surge / Swipe",
+        "cooldown": 12,
+        "image": "PrimalSurge.png",
+        "position": 2
+    },
+    {
+        "champion": "Nidalee",
+        "spell_name": "Aspect Of The Cougar",
+        "cooldown": 3,
+        "image": "AspectOfTheCougar.png",
+        "position": 3
+    },
+    {
+        "champion": "Nilah",
+        "spell_name": "Formless Blade",
+        "cooldown": 4,
+        "image": "NilahQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Nilah",
+        "spell_name": "Jubilant Veil",
+        "cooldown": 26,
+        "image": "NilahW.png",
+        "position": 1
+    },
+    {
+        "champion": "Nilah",
+        "spell_name": "Slipstream",
+        "cooldown": 0.5,
+        "image": "NilahE.png",
+        "position": 2
+    },
+    {
+        "champion": "Nilah",
+        "spell_name": "Apotheosis",
+        "cooldown": 110,
+        "image": "NilahR.png",
+        "position": 3
+    },
+    {
+        "champion": "Nocturne",
+        "spell_name": "Duskbringer",
+        "cooldown": 8,
+        "image": "NocturneDuskbringer.png",
+        "position": 0
+    },
+    {
+        "champion": "Nocturne",
+        "spell_name": "Shroud of Darkness",
+        "cooldown": 20,
+        "image": "NocturneShroudofDarkness.png",
+        "position": 1
+    },
+    {
+        "champion": "Nocturne",
+        "spell_name": "Unspeakable Horror",
+        "cooldown": 15,
+        "image": "NocturneUnspeakableHorror.png",
+        "position": 2
+    },
+    {
+        "champion": "Nocturne",
+        "spell_name": "Paranoia",
+        "cooldown": 140,
+        "image": "NocturneParanoia.png",
+        "position": 3
+    },
+    {
+        "champion": "Nunu & Willump",
+        "spell_name": "Consume",
+        "cooldown": 12,
+        "image": "NunuQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Nunu & Willump",
+        "spell_name": "Biggest Snowball Ever!",
+        "cooldown": 14,
+        "image": "NunuW.png",
+        "position": 1
+    },
+    {
+        "champion": "Nunu & Willump",
+        "spell_name": "Snowball Barrage",
+        "cooldown": 14,
+        "image": "NunuE.png",
+        "position": 2
+    },
+    {
+        "champion": "Nunu & Willump",
+        "spell_name": "Absolute Zero",
+        "cooldown": 110,
+        "image": "NunuR.png",
+        "position": 3
+    },
+    {
+        "champion": "Olaf",
+        "spell_name": "Undertow",
+        "cooldown": 9,
+        "image": "OlafAxeThrowCast.png",
+        "position": 0
+    },
+    {
+        "champion": "Olaf",
+        "spell_name": "Tough It Out",
+        "cooldown": 16,
+        "image": "OlafFrenziedStrikes.png",
+        "position": 1
+    },
+    {
+        "champion": "Olaf",
+        "spell_name": "Reckless Swing",
+        "cooldown": 11,
+        "image": "OlafRecklessStrike.png",
+        "position": 2
+    },
+    {
+        "champion": "Olaf",
+        "spell_name": "Ragnarok",
+        "cooldown": 100,
+        "image": "OlafRagnarok.png",
+        "position": 3
+    },
+    {
+        "champion": "Orianna",
+        "spell_name": "Command: Attack",
+        "cooldown": 6,
+        "image": "OrianaIzunaCommand.png",
+        "position": 0
+    },
+    {
+        "champion": "Orianna",
+        "spell_name": "Command: Dissonance",
+        "cooldown": 7,
+        "image": "OrianaDissonanceCommand.png",
+        "position": 1
+    },
+    {
+        "champion": "Orianna",
+        "spell_name": "Command: Protect",
+        "cooldown": 9,
+        "image": "OrianaRedactCommand.png",
+        "position": 2
+    },
+    {
+        "champion": "Orianna",
+        "spell_name": "Command: Shockwave",
+        "cooldown": 110,
+        "image": "OrianaDetonateCommand.png",
+        "position": 3
+    },
+    {
+        "champion": "Ornn",
+        "spell_name": "Volcanic Rupture",
+        "cooldown": 9,
+        "image": "OrnnQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ornn",
+        "spell_name": "Bellows Breath",
+        "cooldown": 12,
+        "image": "OrnnW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ornn",
+        "spell_name": "Searing Charge",
+        "cooldown": 14,
+        "image": "OrnnE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ornn",
+        "spell_name": "Call of the Forge God",
+        "cooldown": 140,
+        "image": "OrnnR.png",
+        "position": 3
+    },
+    {
+        "champion": "Pantheon",
+        "spell_name": "Comet Spear",
+        "cooldown": 11,
+        "image": "PantheonQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Pantheon",
+        "spell_name": "Shield Vault",
+        "cooldown": 13,
+        "image": "PantheonW.png",
+        "position": 1
+    },
+    {
+        "champion": "Pantheon",
+        "spell_name": "Aegis Assault",
+        "cooldown": 22,
+        "image": "PantheonE.png",
+        "position": 2
+    },
+    {
+        "champion": "Pantheon",
+        "spell_name": "Grand Starfall",
+        "cooldown": 180,
+        "image": "PantheonR.png",
+        "position": 3
+    },
+    {
+        "champion": "Poppy",
+        "spell_name": "Hammer Shock",
+        "cooldown": 8,
+        "image": "PoppyQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Poppy",
+        "spell_name": "Steadfast Presence",
+        "cooldown": 20,
+        "image": "PoppyW.png",
+        "position": 1
+    },
+    {
+        "champion": "Poppy",
+        "spell_name": "Heroic Charge",
+        "cooldown": 14,
+        "image": "PoppyE.png",
+        "position": 2
+    },
+    {
+        "champion": "Poppy",
+        "spell_name": "Keeper's Verdict",
+        "cooldown": 140,
+        "image": "PoppyR.png",
+        "position": 3
+    },
+    {
+        "champion": "Pyke",
+        "spell_name": "Bone Skewer",
+        "cooldown": 10,
+        "image": "PykeQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Pyke",
+        "spell_name": "Ghostwater Dive",
+        "cooldown": 14,
+        "image": "PykeW.png",
+        "position": 1
+    },
+    {
+        "champion": "Pyke",
+        "spell_name": "Phantom Undertow",
+        "cooldown": 15,
+        "image": "PykeE.png",
+        "position": 2
+    },
+    {
+        "champion": "Pyke",
+        "spell_name": "Death From Below",
+        "cooldown": 100,
+        "image": "PykeR.png",
+        "position": 3
+    },
+    {
+        "champion": "Qiyana",
+        "spell_name": "Elemental Wrath / Edge of Ixtal",
+        "cooldown": 7,
+        "image": "QiyanaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Qiyana",
+        "spell_name": "Terrashape",
+        "cooldown": 7,
+        "image": "QiyanaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Qiyana",
+        "spell_name": "Audacity",
+        "cooldown": 11,
+        "image": "QiyanaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Qiyana",
+        "spell_name": "Supreme Display of Talent",
+        "cooldown": 120,
+        "image": "QiyanaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Quinn",
+        "spell_name": "Blinding Assault",
+        "cooldown": 11,
+        "image": "QuinnQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Quinn",
+        "spell_name": "Heightened Senses",
+        "cooldown": 50,
+        "image": "QuinnW.png",
+        "position": 1
+    },
+    {
+        "champion": "Quinn",
+        "spell_name": "Vault",
+        "cooldown": 12,
+        "image": "QuinnE.png",
+        "position": 2
+    },
+    {
+        "champion": "Quinn",
+        "spell_name": "Behind Enemy Lines",
+        "cooldown": 3,
+        "image": "QuinnR.png",
+        "position": 3
+    },
+    {
+        "champion": "Rakan",
+        "spell_name": "Gleaming Quill",
+        "cooldown": 11,
+        "image": "RakanQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Rakan",
+        "spell_name": "Grand Entrance",
+        "cooldown": 16,
+        "image": "RakanW.png",
+        "position": 1
+    },
+    {
+        "champion": "Rakan",
+        "spell_name": "Battle Dance",
+        "cooldown": 0,
+        "image": "RakanE.png",
+        "position": 2
+    },
+    {
+        "champion": "Rakan",
+        "spell_name": "The Quickness",
+        "cooldown": 130,
+        "image": "RakanR.png",
+        "position": 3
+    },
+    {
+        "champion": "Rammus",
+        "spell_name": "Powerball",
+        "cooldown": 12,
+        "image": "PowerBall.png",
+        "position": 0
+    },
+    {
+        "champion": "Rammus",
+        "spell_name": "Defensive Ball Curl",
+        "cooldown": 7,
+        "image": "DefensiveBallCurl.png",
+        "position": 1
+    },
+    {
+        "champion": "Rammus",
+        "spell_name": "Frenzying Taunt",
+        "cooldown": 12,
+        "image": "PuncturingTaunt.png",
+        "position": 2
+    },
+    {
+        "champion": "Rammus",
+        "spell_name": "Soaring Slam",
+        "cooldown": 90,
+        "image": "Tremors2.png",
+        "position": 3
+    },
+    {
+        "champion": "Rek'Sai",
+        "spell_name": "Queen's Wrath / Prey Seeker",
+        "cooldown": 4,
+        "image": "RekSaiQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Rek'Sai",
+        "spell_name": "Burrow / Un-burrow",
+        "cooldown": 4,
+        "image": "RekSaiW.png",
+        "position": 1
+    },
+    {
+        "champion": "Rek'Sai",
+        "spell_name": "Furious Bite / Tunnel",
+        "cooldown": 10,
+        "image": "RekSaiE.png",
+        "position": 2
+    },
+    {
+        "champion": "Rek'Sai",
+        "spell_name": "Void Rush",
+        "cooldown": 100,
+        "image": "RekSaiR.png",
+        "position": 3
+    },
+    {
+        "champion": "Rell",
+        "spell_name": "Shattering Strike",
+        "cooldown": 11,
+        "image": "RellQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Rell",
+        "spell_name": "Ferromancy: Crash Down",
+        "cooldown": 10,
+        "image": "RellW_Dismount.png",
+        "position": 1
+    },
+    {
+        "champion": "Rell",
+        "spell_name": "Full Tilt",
+        "cooldown": 14,
+        "image": "RellE.png",
+        "position": 2
+    },
+    {
+        "champion": "Rell",
+        "spell_name": "Magnet Storm",
+        "cooldown": 120,
+        "image": "RellR.png",
+        "position": 3
+    },
+    {
+        "champion": "Renata Glasc",
+        "spell_name": "Handshake",
+        "cooldown": 16,
+        "image": "RenataQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Renata Glasc",
+        "spell_name": "Bailout",
+        "cooldown": 28,
+        "image": "RenataW.png",
+        "position": 1
+    },
+    {
+        "champion": "Renata Glasc",
+        "spell_name": "Loyalty Program",
+        "cooldown": 14,
+        "image": "RenataE.png",
+        "position": 2
+    },
+    {
+        "champion": "Renata Glasc",
+        "spell_name": "Hostile Takeover",
+        "cooldown": 150,
+        "image": "RenataR.png",
+        "position": 3
+    },
+    {
+        "champion": "Renekton",
+        "spell_name": "Cull the Meek",
+        "cooldown": 7,
+        "image": "RenektonCleave.png",
+        "position": 0
+    },
+    {
+        "champion": "Renekton",
+        "spell_name": "Ruthless Predator",
+        "cooldown": 16,
+        "image": "RenektonPreExecute.png",
+        "position": 1
+    },
+    {
+        "champion": "Renekton",
+        "spell_name": "Slice and Dice",
+        "cooldown": 16,
+        "image": "RenektonSliceAndDice.png",
+        "position": 2
+    },
+    {
+        "champion": "Renekton",
+        "spell_name": "Dominus",
+        "cooldown": 120,
+        "image": "RenektonReignOfTheTyrant.png",
+        "position": 3
+    },
+    {
+        "champion": "Rengar",
+        "spell_name": "Savagery",
+        "cooldown": 0.25,
+        "image": "RengarQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Rengar",
+        "spell_name": "Battle Roar",
+        "cooldown": 0.25,
+        "image": "RengarW.png",
+        "position": 1
+    },
+    {
+        "champion": "Rengar",
+        "spell_name": "Bola Strike",
+        "cooldown": 0.25,
+        "image": "RengarE.png",
+        "position": 2
+    },
+    {
+        "champion": "Rengar",
+        "spell_name": "Thrill of the Hunt",
+        "cooldown": 110,
+        "image": "RengarR.png",
+        "position": 3
+    },
+    {
+        "champion": "Riven",
+        "spell_name": "Broken Wings",
+        "cooldown": 13,
+        "image": "RivenTriCleave.png",
+        "position": 0
+    },
+    {
+        "champion": "Riven",
+        "spell_name": "Ki Burst",
+        "cooldown": 11,
+        "image": "RivenMartyr.png",
+        "position": 1
+    },
+    {
+        "champion": "Riven",
+        "spell_name": "Valor",
+        "cooldown": 10,
+        "image": "RivenFeint.png",
+        "position": 2
+    },
+    {
+        "champion": "Riven",
+        "spell_name": "Blade of the Exile",
+        "cooldown": 120,
+        "image": "RivenFengShuiEngine.png",
+        "position": 3
+    },
+    {
+        "champion": "Rumble",
+        "spell_name": "Flamespitter",
+        "cooldown": 10,
+        "image": "RumbleFlameThrower.png",
+        "position": 0
+    },
+    {
+        "champion": "Rumble",
+        "spell_name": "Scrap Shield",
+        "cooldown": 6,
+        "image": "RumbleShield.png",
+        "position": 1
+    },
+    {
+        "champion": "Rumble",
+        "spell_name": "Electro Harpoon",
+        "cooldown": 0.5,
+        "image": "RumbleGrenade.png",
+        "position": 2
+    },
+    {
+        "champion": "Rumble",
+        "spell_name": "The Equalizer",
+        "cooldown": 130,
+        "image": "RumbleCarpetBomb.png",
+        "position": 3
+    },
+    {
+        "champion": "Ryze",
+        "spell_name": "Overload",
+        "cooldown": 5,
+        "image": "RyzeQWrapper.png",
+        "position": 0
+    },
+    {
+        "champion": "Ryze",
+        "spell_name": "Rune Prison",
+        "cooldown": 11,
+        "image": "RyzeW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ryze",
+        "spell_name": "Spell Flux",
+        "cooldown": 3.5,
+        "image": "RyzeE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ryze",
+        "spell_name": "Realm Warp",
+        "cooldown": 180,
+        "image": "RyzeR.png",
+        "position": 3
+    },
+    {
+        "champion": "Samira",
+        "spell_name": "Flair",
+        "cooldown": 6,
+        "image": "SamiraQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Samira",
+        "spell_name": "Blade Whirl",
+        "cooldown": 30,
+        "image": "SamiraW.png",
+        "position": 1
+    },
+    {
+        "champion": "Samira",
+        "spell_name": "Wild Rush",
+        "cooldown": 20,
+        "image": "SamiraE.png",
+        "position": 2
+    },
+    {
+        "champion": "Samira",
+        "spell_name": "Inferno Trigger",
+        "cooldown": 5,
+        "image": "SamiraR.png",
+        "position": 3
+    },
+    {
+        "champion": "Sejuani",
+        "spell_name": "Arctic Assault",
+        "cooldown": 19,
+        "image": "SejuaniQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Sejuani",
+        "spell_name": "Winter's Wrath",
+        "cooldown": 9,
+        "image": "SejuaniW.png",
+        "position": 1
+    },
+    {
+        "champion": "Sejuani",
+        "spell_name": "Permafrost",
+        "cooldown": 1.5,
+        "image": "SejuaniE.png",
+        "position": 2
+    },
+    {
+        "champion": "Sejuani",
+        "spell_name": "Glacial Prison",
+        "cooldown": 130,
+        "image": "SejuaniR.png",
+        "position": 3
+    },
+    {
+        "champion": "Senna",
+        "spell_name": "Piercing Darkness",
+        "cooldown": 15,
+        "image": "SennaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Senna",
+        "spell_name": "Last Embrace",
+        "cooldown": 11,
+        "image": "SennaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Senna",
+        "spell_name": "Curse of the Black Mist",
+        "cooldown": 26,
+        "image": "SennaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Senna",
+        "spell_name": "Dawning Shadow",
+        "cooldown": 140,
+        "image": "SennaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Seraphine",
+        "spell_name": "High Note",
+        "cooldown": 8,
+        "image": "SeraphineQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Seraphine",
+        "spell_name": "Surround Sound",
+        "cooldown": 22,
+        "image": "SeraphineW.png",
+        "position": 1
+    },
+    {
+        "champion": "Seraphine",
+        "spell_name": "Beat Drop",
+        "cooldown": 11,
+        "image": "SeraphineE.png",
+        "position": 2
+    },
+    {
+        "champion": "Seraphine",
+        "spell_name": "Encore",
+        "cooldown": 160,
+        "image": "SeraphineR.png",
+        "position": 3
+    },
+    {
+        "champion": "Sett",
+        "spell_name": "Knuckle Down",
+        "cooldown": 9,
+        "image": "SettQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Sett",
+        "spell_name": "Haymaker",
+        "cooldown": 18,
+        "image": "SettW.png",
+        "position": 1
+    },
+    {
+        "champion": "Sett",
+        "spell_name": "Facebreaker",
+        "cooldown": 16,
+        "image": "SettE.png",
+        "position": 2
+    },
+    {
+        "champion": "Sett",
+        "spell_name": "The Show Stopper",
+        "cooldown": 120,
+        "image": "SettR.png",
+        "position": 3
+    },
+    {
+        "champion": "Shaco",
+        "spell_name": "Deceive",
+        "cooldown": 12,
+        "image": "Deceive.png",
+        "position": 0
+    },
+    {
+        "champion": "Shaco",
+        "spell_name": "Jack In The Box",
+        "cooldown": 15,
+        "image": "JackInTheBox.png",
+        "position": 1
+    },
+    {
+        "champion": "Shaco",
+        "spell_name": "Two-Shiv Poison",
+        "cooldown": 8,
+        "image": "TwoShivPoison.png",
+        "position": 2
+    },
+    {
+        "champion": "Shaco",
+        "spell_name": "Hallucinate",
+        "cooldown": 100,
+        "image": "HallucinateFull.png",
+        "position": 3
+    },
+    {
+        "champion": "Shen",
+        "spell_name": "Twilight Assault",
+        "cooldown": 8,
+        "image": "ShenQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Shen",
+        "spell_name": "Spirit's Refuge",
+        "cooldown": 18,
+        "image": "ShenW.png",
+        "position": 1
+    },
+    {
+        "champion": "Shen",
+        "spell_name": "Shadow Dash",
+        "cooldown": 18,
+        "image": "ShenE.png",
+        "position": 2
+    },
+    {
+        "champion": "Shen",
+        "spell_name": "Stand United",
+        "cooldown": 200,
+        "image": "ShenR.png",
+        "position": 3
+    },
+    {
+        "champion": "Shyvana",
+        "spell_name": "Twin Bite",
+        "cooldown": 8,
+        "image": "ShyvanaDoubleAttack.png",
+        "position": 0
+    },
+    {
+        "champion": "Shyvana",
+        "spell_name": "Burnout",
+        "cooldown": 12,
+        "image": "ShyvanaImmolationAura.png",
+        "position": 1
+    },
+    {
+        "champion": "Shyvana",
+        "spell_name": "Flame Breath",
+        "cooldown": 12,
+        "image": "ShyvanaFireball.png",
+        "position": 2
+    },
+    {
+        "champion": "Shyvana",
+        "spell_name": "Dragon's Descent",
+        "cooldown": 0,
+        "image": "ShyvanaTransformCast.png",
+        "position": 3
+    },
+    {
+        "champion": "Singed",
+        "spell_name": "Poison Trail",
+        "cooldown": 0,
+        "image": "PoisonTrail.png",
+        "position": 0
+    },
+    {
+        "champion": "Singed",
+        "spell_name": "Mega Adhesive",
+        "cooldown": 17,
+        "image": "MegaAdhesive.png",
+        "position": 1
+    },
+    {
+        "champion": "Singed",
+        "spell_name": "Fling",
+        "cooldown": 10,
+        "image": "Fling.png",
+        "position": 2
+    },
+    {
+        "champion": "Singed",
+        "spell_name": "Insanity Potion",
+        "cooldown": 100,
+        "image": "InsanityPotion.png",
+        "position": 3
+    },
+    {
+        "champion": "Sion",
+        "spell_name": "Decimating Smash",
+        "cooldown": 10,
+        "image": "SionQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Sion",
+        "spell_name": "Soul Furnace",
+        "cooldown": 15,
+        "image": "SionW.png",
+        "position": 1
+    },
+    {
+        "champion": "Sion",
+        "spell_name": "Roar of the Slayer",
+        "cooldown": 12,
+        "image": "SionE.png",
+        "position": 2
+    },
+    {
+        "champion": "Sion",
+        "spell_name": "Unstoppable Onslaught",
+        "cooldown": 140,
+        "image": "SionR.png",
+        "position": 3
+    },
+    {
+        "champion": "Sivir",
+        "spell_name": "Boomerang Blade",
+        "cooldown": 10,
+        "image": "SivirQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Sivir",
+        "spell_name": "Ricochet",
+        "cooldown": 12,
+        "image": "SivirW.png",
+        "position": 1
+    },
+    {
+        "champion": "Sivir",
+        "spell_name": "Spell Shield",
+        "cooldown": 24,
+        "image": "SivirE.png",
+        "position": 2
+    },
+    {
+        "champion": "Sivir",
+        "spell_name": "On The Hunt",
+        "cooldown": 120,
+        "image": "SivirR.png",
+        "position": 3
+    },
+    {
+        "champion": "Skarner",
+        "spell_name": "Shattered Earth / Upheaval",
+        "cooldown": 13,
+        "image": "SkarnerQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Skarner",
+        "spell_name": "Seismic Bastion",
+        "cooldown": 10,
+        "image": "SkarnerW.png",
+        "position": 1
+    },
+    {
+        "champion": "Skarner",
+        "spell_name": "Ixtal's Impact",
+        "cooldown": 20,
+        "image": "SkarnerE.png",
+        "position": 2
+    },
+    {
+        "champion": "Skarner",
+        "spell_name": "Impale",
+        "cooldown": 120,
+        "image": "SkarnerR.png",
+        "position": 3
+    },
+    {
+        "champion": "Smolder",
+        "spell_name": "Super Scorcher Breath",
+        "cooldown": 5.5,
+        "image": "SmolderQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Smolder",
+        "spell_name": "Achooo!",
+        "cooldown": 14,
+        "image": "SmolderW.png",
+        "position": 1
+    },
+    {
+        "champion": "Smolder",
+        "spell_name": "Flap, Flap, Flap",
+        "cooldown": 24,
+        "image": "SmolderE.png",
+        "position": 2
+    },
+    {
+        "champion": "Smolder",
+        "spell_name": "MMOOOMMMM!",
+        "cooldown": 120,
+        "image": "SmolderR.png",
+        "position": 3
+    },
+    {
+        "champion": "Sona",
+        "spell_name": "Hymn of Valor",
+        "cooldown": 8,
+        "image": "SonaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Sona",
+        "spell_name": "Aria of Perseverance",
+        "cooldown": 10,
+        "image": "SonaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Sona",
+        "spell_name": "Song of Celerity",
+        "cooldown": 14,
+        "image": "SonaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Sona",
+        "spell_name": "Crescendo",
+        "cooldown": 140,
+        "image": "SonaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Soraka",
+        "spell_name": "Starcall",
+        "cooldown": 8,
+        "image": "SorakaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Soraka",
+        "spell_name": "Astral Infusion",
+        "cooldown": 6,
+        "image": "SorakaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Soraka",
+        "spell_name": "Equinox",
+        "cooldown": 20,
+        "image": "SorakaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Soraka",
+        "spell_name": "Wish",
+        "cooldown": 150,
+        "image": "SorakaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Swain",
+        "spell_name": "Death's Hand",
+        "cooldown": 7,
+        "image": "SwainQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Swain",
+        "spell_name": "Vision of Empire",
+        "cooldown": 22,
+        "image": "SwainW.png",
+        "position": 1
+    },
+    {
+        "champion": "Swain",
+        "spell_name": "Nevermove",
+        "cooldown": 12,
+        "image": "SwainE.png",
+        "position": 2
+    },
+    {
+        "champion": "Swain",
+        "spell_name": "Demonic Ascension",
+        "cooldown": 120,
+        "image": "SwainR.png",
+        "position": 3
+    },
+    {
+        "champion": "Sylas",
+        "spell_name": "Chain Lash",
+        "cooldown": 10,
+        "image": "SylasQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Sylas",
+        "spell_name": "Kingslayer",
+        "cooldown": 12,
+        "image": "SylasW.png",
+        "position": 1
+    },
+    {
+        "champion": "Sylas",
+        "spell_name": "Abscond / Abduct",
+        "cooldown": 13,
+        "image": "SylasE.png",
+        "position": 2
+    },
+    {
+        "champion": "Sylas",
+        "spell_name": "Hijack",
+        "cooldown": 80,
+        "image": "SylasR.png",
+        "position": 3
+    },
+    {
+        "champion": "Syndra",
+        "spell_name": "Dark Sphere",
+        "cooldown": 7,
+        "image": "SyndraQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Syndra",
+        "spell_name": "Force of Will",
+        "cooldown": 12,
+        "image": "SyndraW.png",
+        "position": 1
+    },
+    {
+        "champion": "Syndra",
+        "spell_name": "Scatter the Weak",
+        "cooldown": 17,
+        "image": "SyndraE.png",
+        "position": 2
+    },
+    {
+        "champion": "Syndra",
+        "spell_name": "Unleashed Power",
+        "cooldown": 120,
+        "image": "SyndraR.png",
+        "position": 3
+    },
+    {
+        "champion": "Tahm Kench",
+        "spell_name": "Tongue Lash",
+        "cooldown": 7,
+        "image": "TahmKenchQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Tahm Kench",
+        "spell_name": "Abyssal Dive",
+        "cooldown": 21,
+        "image": "TahmKenchW.png",
+        "position": 1
+    },
+    {
+        "champion": "Tahm Kench",
+        "spell_name": "Thick Skin",
+        "cooldown": 3,
+        "image": "TahmKenchE.png",
+        "position": 2
+    },
+    {
+        "champion": "Tahm Kench",
+        "spell_name": "Devour",
+        "cooldown": 0,
+        "image": "TahmKenchRWrapper.png",
+        "position": 3
+    },
+    {
+        "champion": "Taliyah",
+        "spell_name": "Threaded Volley",
+        "cooldown": 7,
+        "image": "TaliyahQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Taliyah",
+        "spell_name": "Seismic Shove",
+        "cooldown": 14,
+        "image": "TaliyahWVC.png",
+        "position": 1
+    },
+    {
+        "champion": "Taliyah",
+        "spell_name": "Unraveled Earth",
+        "cooldown": 14,
+        "image": "TaliyahE.png",
+        "position": 2
+    },
+    {
+        "champion": "Taliyah",
+        "spell_name": "Weaver's Wall",
+        "cooldown": 180,
+        "image": "TaliyahR.png",
+        "position": 3
+    },
+    {
+        "champion": "Talon",
+        "spell_name": "Noxian Diplomacy",
+        "cooldown": 8,
+        "image": "TalonQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Talon",
+        "spell_name": "Rake",
+        "cooldown": 9,
+        "image": "TalonW.png",
+        "position": 1
+    },
+    {
+        "champion": "Talon",
+        "spell_name": "Assassin's Path",
+        "cooldown": 0,
+        "image": "TalonE.png",
+        "position": 2
+    },
+    {
+        "champion": "Talon",
+        "spell_name": "Shadow Assault",
+        "cooldown": 100,
+        "image": "TalonR.png",
+        "position": 3
+    },
+    {
+        "champion": "Taric",
+        "spell_name": "Starlight's Touch",
+        "cooldown": 3,
+        "image": "TaricQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Taric",
+        "spell_name": "Bastion",
+        "cooldown": 15,
+        "image": "TaricW.png",
+        "position": 1
+    },
+    {
+        "champion": "Taric",
+        "spell_name": "Dazzle",
+        "cooldown": 16,
+        "image": "TaricE.png",
+        "position": 2
+    },
+    {
+        "champion": "Taric",
+        "spell_name": "Cosmic Radiance",
+        "cooldown": 180,
+        "image": "TaricR.png",
+        "position": 3
+    },
+    {
+        "champion": "Teemo",
+        "spell_name": "Blinding Dart",
+        "cooldown": 7,
+        "image": "TeemoQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Teemo",
+        "spell_name": "Move Quick",
+        "cooldown": 14,
+        "image": "TeemoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Teemo",
+        "spell_name": "Toxic Shot",
+        "cooldown": 0,
+        "image": "TeemoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Teemo",
+        "spell_name": "Noxious Trap",
+        "cooldown": 0.25,
+        "image": "TeemoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Thresh",
+        "spell_name": "Death Sentence",
+        "cooldown": 19,
+        "image": "ThreshQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Thresh",
+        "spell_name": "Dark Passage",
+        "cooldown": 21,
+        "image": "ThreshW.png",
+        "position": 1
+    },
+    {
+        "champion": "Thresh",
+        "spell_name": "Flay",
+        "cooldown": 13,
+        "image": "ThreshE.png",
+        "position": 2
+    },
+    {
+        "champion": "Thresh",
+        "spell_name": "The Box",
+        "cooldown": 120,
+        "image": "ThreshRPenta.png",
+        "position": 3
+    },
+    {
+        "champion": "Tristana",
+        "spell_name": "Rapid Fire",
+        "cooldown": 20,
+        "image": "TristanaQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Tristana",
+        "spell_name": "Rocket Jump",
+        "cooldown": 22,
+        "image": "TristanaW.png",
+        "position": 1
+    },
+    {
+        "champion": "Tristana",
+        "spell_name": "Explosive Charge",
+        "cooldown": 16,
+        "image": "TristanaE.png",
+        "position": 2
+    },
+    {
+        "champion": "Tristana",
+        "spell_name": "Buster Shot",
+        "cooldown": 100,
+        "image": "TristanaR.png",
+        "position": 3
+    },
+    {
+        "champion": "Trundle",
+        "spell_name": "Chomp",
+        "cooldown": 3.5,
+        "image": "TrundleTrollSmash.png",
+        "position": 0
+    },
+    {
+        "champion": "Trundle",
+        "spell_name": "Frozen Domain",
+        "cooldown": 16,
+        "image": "trundledesecrate.png",
+        "position": 1
+    },
+    {
+        "champion": "Trundle",
+        "spell_name": "Pillar of Ice",
+        "cooldown": 24,
+        "image": "TrundleCircle.png",
+        "position": 2
+    },
+    {
+        "champion": "Trundle",
+        "spell_name": "Subjugate",
+        "cooldown": 120,
+        "image": "TrundlePain.png",
+        "position": 3
+    },
+    {
+        "champion": "Tryndamere",
+        "spell_name": "Bloodlust",
+        "cooldown": 12,
+        "image": "TryndamereQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Tryndamere",
+        "spell_name": "Mocking Shout",
+        "cooldown": 14,
+        "image": "TryndamereW.png",
+        "position": 1
+    },
+    {
+        "champion": "Tryndamere",
+        "spell_name": "Spinning Slash",
+        "cooldown": 12,
+        "image": "TryndamereE.png",
+        "position": 2
+    },
+    {
+        "champion": "Tryndamere",
+        "spell_name": "Undying Rage",
+        "cooldown": 120,
+        "image": "UndyingRage.png",
+        "position": 3
+    },
+    {
+        "champion": "Twisted Fate",
+        "spell_name": "Wild Cards",
+        "cooldown": 6,
+        "image": "WildCards.png",
+        "position": 0
+    },
+    {
+        "champion": "Twisted Fate",
+        "spell_name": "Pick a Card",
+        "cooldown": 6,
+        "image": "PickACard.png",
+        "position": 1
+    },
+    {
+        "champion": "Twisted Fate",
+        "spell_name": "Stacked Deck",
+        "cooldown": 0,
+        "image": "CardmasterStack.png",
+        "position": 2
+    },
+    {
+        "champion": "Twisted Fate",
+        "spell_name": "Destiny",
+        "cooldown": 180,
+        "image": "Destiny.png",
+        "position": 3
+    },
+    {
+        "champion": "Twitch",
+        "spell_name": "Ambush",
+        "cooldown": 16,
+        "image": "TwitchHideInShadows.png",
+        "position": 0
+    },
+    {
+        "champion": "Twitch",
+        "spell_name": "Venom Cask",
+        "cooldown": 13,
+        "image": "TwitchVenomCask.png",
+        "position": 1
+    },
+    {
+        "champion": "Twitch",
+        "spell_name": "Contaminate",
+        "cooldown": 12,
+        "image": "TwitchExpunge.png",
+        "position": 2
+    },
+    {
+        "champion": "Twitch",
+        "spell_name": "Spray and Pray",
+        "cooldown": 90,
+        "image": "TwitchFullAutomatic.png",
+        "position": 3
+    },
+    {
+        "champion": "Udyr",
+        "spell_name": "Wilding Claw",
+        "cooldown": 6,
+        "image": "UdyrQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Udyr",
+        "spell_name": "Iron Mantle",
+        "cooldown": 6,
+        "image": "UdyrW.png",
+        "position": 1
+    },
+    {
+        "champion": "Udyr",
+        "spell_name": "Blazing Stampede",
+        "cooldown": 6,
+        "image": "UdyrE.png",
+        "position": 2
+    },
+    {
+        "champion": "Udyr",
+        "spell_name": "Wingborne Storm",
+        "cooldown": 6,
+        "image": "UdyrR.png",
+        "position": 3
+    },
+    {
+        "champion": "Urgot",
+        "spell_name": "Corrosive Charge",
+        "cooldown": 10,
+        "image": "UrgotQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Urgot",
+        "spell_name": "Purge",
+        "cooldown": 12,
+        "image": "UrgotW.png",
+        "position": 1
+    },
+    {
+        "champion": "Urgot",
+        "spell_name": "Disdain",
+        "cooldown": 16,
+        "image": "UrgotE.png",
+        "position": 2
+    },
+    {
+        "champion": "Urgot",
+        "spell_name": "Fear Beyond Death",
+        "cooldown": 100,
+        "image": "UrgotR.png",
+        "position": 3
+    },
+    {
+        "champion": "Varus",
+        "spell_name": "Piercing Arrow",
+        "cooldown": 16,
+        "image": "VarusQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Varus",
+        "spell_name": "Blighted Quiver",
+        "cooldown": 40,
+        "image": "VarusW.png",
+        "position": 1
+    },
+    {
+        "champion": "Varus",
+        "spell_name": "Hail of Arrows",
+        "cooldown": 18,
+        "image": "VarusE.png",
+        "position": 2
+    },
+    {
+        "champion": "Varus",
+        "spell_name": "Chain of Corruption",
+        "cooldown": 100,
+        "image": "VarusR.png",
+        "position": 3
+    },
+    {
+        "champion": "Vayne",
+        "spell_name": "Tumble",
+        "cooldown": 6,
+        "image": "VayneTumble.png",
+        "position": 0
+    },
+    {
+        "champion": "Vayne",
+        "spell_name": "Silver Bolts",
+        "cooldown": 0,
+        "image": "VayneSilveredBolts.png",
+        "position": 1
+    },
+    {
+        "champion": "Vayne",
+        "spell_name": "Condemn",
+        "cooldown": 20,
+        "image": "VayneCondemn.png",
+        "position": 2
+    },
+    {
+        "champion": "Vayne",
+        "spell_name": "Final Hour",
+        "cooldown": 100,
+        "image": "VayneInquisition.png",
+        "position": 3
+    },
+    {
+        "champion": "Veigar",
+        "spell_name": "Baleful Strike",
+        "cooldown": 6,
+        "image": "VeigarBalefulStrike.png",
+        "position": 0
+    },
+    {
+        "champion": "Veigar",
+        "spell_name": "Dark Matter",
+        "cooldown": 0,
+        "image": "VeigarDarkMatter.png",
+        "position": 1
+    },
+    {
+        "champion": "Veigar",
+        "spell_name": "Event Horizon",
+        "cooldown": 20,
+        "image": "VeigarEventHorizon.png",
+        "position": 2
+    },
+    {
+        "champion": "Veigar",
+        "spell_name": "Primordial Burst",
+        "cooldown": 100,
+        "image": "VeigarR.png",
+        "position": 3
+    },
+    {
+        "champion": "Vel'Koz",
+        "spell_name": "Plasma Fission",
+        "cooldown": 7,
+        "image": "VelkozQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Vel'Koz",
+        "spell_name": "Void Rift",
+        "cooldown": 1.5,
+        "image": "VelkozW.png",
+        "position": 1
+    },
+    {
+        "champion": "Vel'Koz",
+        "spell_name": "Tectonic Disruption",
+        "cooldown": 14,
+        "image": "VelkozE.png",
+        "position": 2
+    },
+    {
+        "champion": "Vel'Koz",
+        "spell_name": "Life Form Disintegration Ray",
+        "cooldown": 100,
+        "image": "VelkozR.png",
+        "position": 3
+    },
+    {
+        "champion": "Vex",
+        "spell_name": "Mistral Bolt",
+        "cooldown": 8,
+        "image": "VexQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Vex",
+        "spell_name": "Personal Space",
+        "cooldown": 16,
+        "image": "VexW.png",
+        "position": 1
+    },
+    {
+        "champion": "Vex",
+        "spell_name": "Looming Darkness",
+        "cooldown": 13,
+        "image": "VexE.png",
+        "position": 2
+    },
+    {
+        "champion": "Vex",
+        "spell_name": "Shadow Surge",
+        "cooldown": 140,
+        "image": "VexR.png",
+        "position": 3
+    },
+    {
+        "champion": "Vi",
+        "spell_name": "Vault Breaker",
+        "cooldown": 12,
+        "image": "ViQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Vi",
+        "spell_name": "Denting Blows",
+        "cooldown": 0,
+        "image": "ViW.png",
+        "position": 1
+    },
+    {
+        "champion": "Vi",
+        "spell_name": "Relentless Force",
+        "cooldown": 1,
+        "image": "ViE.png",
+        "position": 2
+    },
+    {
+        "champion": "Vi",
+        "spell_name": "Cease and Desist",
+        "cooldown": 140,
+        "image": "ViR.png",
+        "position": 3
+    },
+    {
+        "champion": "Viego",
+        "spell_name": "Blade of the Ruined King",
+        "cooldown": 5,
+        "image": "ViegoQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Viego",
+        "spell_name": "Spectral Maw",
+        "cooldown": 8,
+        "image": "ViegoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Viego",
+        "spell_name": "Harrowed Path",
+        "cooldown": 14,
+        "image": "ViegoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Viego",
+        "spell_name": "Heartbreaker",
+        "cooldown": 120,
+        "image": "ViegoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Viktor",
+        "spell_name": "Siphon Power",
+        "cooldown": 9,
+        "image": "ViktorQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Viktor",
+        "spell_name": "Gravity Field",
+        "cooldown": 17,
+        "image": "ViktorW.png",
+        "position": 1
+    },
+    {
+        "champion": "Viktor",
+        "spell_name": "Hextech Ray",
+        "cooldown": 12,
+        "image": "ViktorE.png",
+        "position": 2
+    },
+    {
+        "champion": "Viktor",
+        "spell_name": "Arcane Storm",
+        "cooldown": 120,
+        "image": "ViktorR.png",
+        "position": 3
+    },
+    {
+        "champion": "Vladimir",
+        "spell_name": "Transfusion",
+        "cooldown": 9,
+        "image": "VladimirQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Vladimir",
+        "spell_name": "Sanguine Pool",
+        "cooldown": 28,
+        "image": "VladimirSanguinePool.png",
+        "position": 1
+    },
+    {
+        "champion": "Vladimir",
+        "spell_name": "Tides of Blood",
+        "cooldown": 13,
+        "image": "VladimirE.png",
+        "position": 2
+    },
+    {
+        "champion": "Vladimir",
+        "spell_name": "Hemoplague",
+        "cooldown": 120,
+        "image": "VladimirHemoplague.png",
+        "position": 3
+    },
+    {
+        "champion": "Volibear",
+        "spell_name": "Thundering Smash",
+        "cooldown": 14,
+        "image": "VolibearQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Volibear",
+        "spell_name": "Frenzied Maul",
+        "cooldown": 5,
+        "image": "VolibearW.png",
+        "position": 1
+    },
+    {
+        "champion": "Volibear",
+        "spell_name": "Sky Splitter",
+        "cooldown": 14,
+        "image": "VolibearE.png",
+        "position": 2
+    },
+    {
+        "champion": "Volibear",
+        "spell_name": "Stormbringer",
+        "cooldown": 160,
+        "image": "VolibearR.png",
+        "position": 3
+    },
+    {
+        "champion": "Warwick",
+        "spell_name": "Jaws of the Beast",
+        "cooldown": 8,
+        "image": "WarwickQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Warwick",
+        "spell_name": "Blood Hunt",
+        "cooldown": 80,
+        "image": "WarwickW.png",
+        "position": 1
+    },
+    {
+        "champion": "Warwick",
+        "spell_name": "Primal Howl",
+        "cooldown": 15,
+        "image": "WarwickE.png",
+        "position": 2
+    },
+    {
+        "champion": "Warwick",
+        "spell_name": "Infinite Duress",
+        "cooldown": 110,
+        "image": "WarwickR.png",
+        "position": 3
+    },
+    {
+        "champion": "Xayah",
+        "spell_name": "Double Daggers",
+        "cooldown": 10,
+        "image": "XayahQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Xayah",
+        "spell_name": "Deadly Plumage",
+        "cooldown": 20,
+        "image": "XayahW.png",
+        "position": 1
+    },
+    {
+        "champion": "Xayah",
+        "spell_name": "Bladecaller",
+        "cooldown": 12,
+        "image": "XayahE.png",
+        "position": 2
+    },
+    {
+        "champion": "Xayah",
+        "spell_name": "Featherstorm",
+        "cooldown": 140,
+        "image": "XayahR.png",
+        "position": 3
+    },
+    {
+        "champion": "Xerath",
+        "spell_name": "Arcanopulse",
+        "cooldown": 9,
+        "image": "XerathArcanopulseChargeUp.png",
+        "position": 0
+    },
+    {
+        "champion": "Xerath",
+        "spell_name": "Eye of Destruction",
+        "cooldown": 14,
+        "image": "XerathArcaneBarrage2.png",
+        "position": 1
+    },
+    {
+        "champion": "Xerath",
+        "spell_name": "Shocking Orb",
+        "cooldown": 13,
+        "image": "XerathMageSpear.png",
+        "position": 2
+    },
+    {
+        "champion": "Xerath",
+        "spell_name": "Rite of the Arcane",
+        "cooldown": 130,
+        "image": "XerathLocusOfPower2.png",
+        "position": 3
+    },
+    {
+        "champion": "Xin Zhao",
+        "spell_name": "Three Talon Strike",
+        "cooldown": 7,
+        "image": "XinZhaoQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Xin Zhao",
+        "spell_name": "Wind Becomes Lightning",
+        "cooldown": 12,
+        "image": "XinZhaoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Xin Zhao",
+        "spell_name": "Audacious Charge",
+        "cooldown": 11,
+        "image": "XinZhaoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Xin Zhao",
+        "spell_name": "Crescent Guard",
+        "cooldown": 120,
+        "image": "XinZhaoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Yasuo",
+        "spell_name": "Steel Tempest",
+        "cooldown": 4,
+        "image": "YasuoQ1Wrapper.png",
+        "position": 0
+    },
+    {
+        "champion": "Yasuo",
+        "spell_name": "Wind Wall",
+        "cooldown": 25,
+        "image": "YasuoW.png",
+        "position": 1
+    },
+    {
+        "champion": "Yasuo",
+        "spell_name": "Sweeping Blade",
+        "cooldown": 0.5,
+        "image": "YasuoE.png",
+        "position": 2
+    },
+    {
+        "champion": "Yasuo",
+        "spell_name": "Last Breath",
+        "cooldown": 70,
+        "image": "YasuoR.png",
+        "position": 3
+    },
+    {
+        "champion": "Yone",
+        "spell_name": "Mortal Steel",
+        "cooldown": 4,
+        "image": "YoneQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Yone",
+        "spell_name": "Spirit Cleave",
+        "cooldown": 14,
+        "image": "YoneW.png",
+        "position": 1
+    },
+    {
+        "champion": "Yone",
+        "spell_name": "Soul Unbound",
+        "cooldown": 22,
+        "image": "YoneE.png",
+        "position": 2
+    },
+    {
+        "champion": "Yone",
+        "spell_name": "Fate Sealed",
+        "cooldown": 120,
+        "image": "YoneR.png",
+        "position": 3
+    },
+    {
+        "champion": "Yorick",
+        "spell_name": "Last Rites",
+        "cooldown": 7,
+        "image": "YorickQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Yorick",
+        "spell_name": "Dark Procession",
+        "cooldown": 20,
+        "image": "YorickW.png",
+        "position": 1
+    },
+    {
+        "champion": "Yorick",
+        "spell_name": "Mourning Mist",
+        "cooldown": 12,
+        "image": "YorickE.png",
+        "position": 2
+    },
+    {
+        "champion": "Yorick",
+        "spell_name": "Eulogy of the Isles",
+        "cooldown": 160,
+        "image": "YorickR.png",
+        "position": 3
+    },
+    {
+        "champion": "Yuumi",
+        "spell_name": "Prowling Projectile",
+        "cooldown": 6.5,
+        "image": "YuumiQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Yuumi",
+        "spell_name": "You and Me!",
+        "cooldown": 0,
+        "image": "YuumiW.png",
+        "position": 1
+    },
+    {
+        "champion": "Yuumi",
+        "spell_name": "Zoomies",
+        "cooldown": 10,
+        "image": "YuumiE.png",
+        "position": 2
+    },
+    {
+        "champion": "Yuumi",
+        "spell_name": "Final Chapter",
+        "cooldown": 120,
+        "image": "YuumiR.png",
+        "position": 3
+    },
+    {
+        "champion": "Zac",
+        "spell_name": "Stretching Strikes",
+        "cooldown": 14,
+        "image": "ZacQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Zac",
+        "spell_name": "Unstable Matter",
+        "cooldown": 5,
+        "image": "ZacW.png",
+        "position": 1
+    },
+    {
+        "champion": "Zac",
+        "spell_name": "Elastic Slingshot",
+        "cooldown": 22,
+        "image": "ZacE.png",
+        "position": 2
+    },
+    {
+        "champion": "Zac",
+        "spell_name": "Let's Bounce!",
+        "cooldown": 120,
+        "image": "ZacR.png",
+        "position": 3
+    },
+    {
+        "champion": "Zed",
+        "spell_name": "Razor Shuriken",
+        "cooldown": 6,
+        "image": "ZedQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Zed",
+        "spell_name": "Living Shadow",
+        "cooldown": 20,
+        "image": "ZedW.png",
+        "position": 1
+    },
+    {
+        "champion": "Zed",
+        "spell_name": "Shadow Slash",
+        "cooldown": 5,
+        "image": "ZedE.png",
+        "position": 2
+    },
+    {
+        "champion": "Zed",
+        "spell_name": "Death Mark",
+        "cooldown": 120,
+        "image": "ZedR.png",
+        "position": 3
+    },
+    {
+        "champion": "Zeri",
+        "spell_name": "Burst Fire",
+        "cooldown": 0,
+        "image": "ZeriQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Zeri",
+        "spell_name": "Ultrashock Laser",
+        "cooldown": 12,
+        "image": "ZeriW.png",
+        "position": 1
+    },
+    {
+        "champion": "Zeri",
+        "spell_name": "Spark Surge",
+        "cooldown": 22,
+        "image": "ZeriE.png",
+        "position": 2
+    },
+    {
+        "champion": "Zeri",
+        "spell_name": "Lightning Crash",
+        "cooldown": 80,
+        "image": "ZeriR.png",
+        "position": 3
+    },
+    {
+        "champion": "Ziggs",
+        "spell_name": "Bouncing Bomb",
+        "cooldown": 6,
+        "image": "ZiggsQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Ziggs",
+        "spell_name": "Satchel Charge",
+        "cooldown": 20,
+        "image": "ZiggsW.png",
+        "position": 1
+    },
+    {
+        "champion": "Ziggs",
+        "spell_name": "Hexplosive Minefield",
+        "cooldown": 16,
+        "image": "ZiggsE.png",
+        "position": 2
+    },
+    {
+        "champion": "Ziggs",
+        "spell_name": "Mega Inferno Bomb",
+        "cooldown": 120,
+        "image": "ZiggsR.png",
+        "position": 3
+    },
+    {
+        "champion": "Zilean",
+        "spell_name": "Time Bomb",
+        "cooldown": 10,
+        "image": "ZileanQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Zilean",
+        "spell_name": "Rewind",
+        "cooldown": 14,
+        "image": "ZileanW.png",
+        "position": 1
+    },
+    {
+        "champion": "Zilean",
+        "spell_name": "Time Warp",
+        "cooldown": 15,
+        "image": "TimeWarp.png",
+        "position": 2
+    },
+    {
+        "champion": "Zilean",
+        "spell_name": "Chronoshift",
+        "cooldown": 120,
+        "image": "ChronoShift.png",
+        "position": 3
+    },
+    {
+        "champion": "Zoe",
+        "spell_name": "Paddle Star!",
+        "cooldown": 8.5,
+        "image": "ZoeQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Zoe",
+        "spell_name": "Spell Thief",
+        "cooldown": 0.25,
+        "image": "ZoeW.png",
+        "position": 1
+    },
+    {
+        "champion": "Zoe",
+        "spell_name": "Sleepy Trouble Bubble",
+        "cooldown": 16,
+        "image": "ZoeE.png",
+        "position": 2
+    },
+    {
+        "champion": "Zoe",
+        "spell_name": "Portal Jump",
+        "cooldown": 11,
+        "image": "ZoeR.png",
+        "position": 3
+    },
+    {
+        "champion": "Zyra",
+        "spell_name": "Deadly Spines",
+        "cooldown": 7,
+        "image": "ZyraQ.png",
+        "position": 0
+    },
+    {
+        "champion": "Zyra",
+        "spell_name": "Rampant Growth",
+        "cooldown": 0,
+        "image": "ZyraW.png",
+        "position": 1
+    },
+    {
+        "champion": "Zyra",
+        "spell_name": "Grasping Roots",
+        "cooldown": 12,
+        "image": "ZyraE.png",
+        "position": 2
+    },
+    {
+        "champion": "Zyra",
+        "spell_name": "Stranglethorns",
+        "cooldown": 110,
+        "image": "ZyraR.png",
+        "position": 3
+    }
+]

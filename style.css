@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to right, rgb(121, 241, 250), rgb(5, 158, 179));
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body p {
+    text-align: center;
+}
+
+#score-container {
+    display: flex;
+    text-align: center;
+    align-self: center;
+}
+
+#cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+    min-width: 800px;
+}
+
+.card {
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    padding: 10px;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 5px 5px rgb(77, 77, 77);
+    transition: all .1s ease-in-out; 
+    text-wrap: wrap;
+    text-align: center;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card button {
+    height: 40px;
+    width: 40px;
+}
+
+#vs-container {
+    vertical-align: middle;
+    text-align: center;
+    line-height: 50%;
+    font-size: 30px;
+}
+
+.cooldown-container {
+    display: flex;
+    flex-direction: row;
+}
+
+#vs-container {
+    line-height: 150px;
+}

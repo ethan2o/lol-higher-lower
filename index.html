@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoL Higher Lower</title>
+    <script src="script.js" defer></script>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div id="header">
+        <h1>League of Legends: Higher or Lower</h1>
+    </div>
+    <p>Click the ability that has the <b>shorter</b> cooldown</p>
+    <div id="score-container">
+        <h2>Score:&nbsp</h2>
+        <h2 id="score"></h2>
+    </div>
+    <div id="cards">
+        <div class="card" id="card-1">
+            <h3 class="spell-name"></h3>
+            <div class="icon"></div>
+            <div class="champ-name"></div>
+            <div class="cooldown-container" id="cooldown">
+                Cooldown:&nbsp
+                <div></div>
+                s
+            </div>
+        </div>
+        <div id="vs-container">
+            vs.
+        </div>
+        <div class="card" id="card-2">
+            <h3 class="spell-name"></h3>
+            <div class="icon"></div>
+            <div class="champ-name"></div>
+            <div class="cooldown-container" id="cooldown-2">
+                Cooldown:&nbsp
+                <div>?</div>
+                s
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
